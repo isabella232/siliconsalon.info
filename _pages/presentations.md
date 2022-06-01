@@ -11,8 +11,8 @@ header:
   overlay_image: /assets/images/silicon-salon-bare.jpg
 presentation_1:
   - image_path: /assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg
-    alt: "Silicon Salon Presentation"
-    title: "Silicon Salon Presentation"
+    alt: "Silicon Salon Overview"
+    title: "Silicon Salon Overview"
     excerpt: 'The Blockchain Commons presentation outlined the main topics and issues for crypto-semiconductor design.'
     url: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
     btn_label: "Read PDF"
@@ -43,8 +43,8 @@ presentation_4:
     btn_class: "btn--primary"
 presentation_5:
   - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
-    alt: "Libre-SOC Presentation"
-    title: "Libre-SOC Presentation"
+    alt: "Libre-SOC Video"
+    title: "Libre-SOC Video"
     excerpt: 'Libre-SOC offered an overview of the Libre-SOC Project as well as a discussion of challenges & solutions."
     url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
     btn_label: "Watch Video"
