@@ -21,10 +21,10 @@ The Silicon Salon drew together the community to discuss requirements in order t
 
 The first hour of the Silicon Salon featured presentations by experts in the silicon, hardware, software, and cryptography fields.
 
+* Bryan Bishop and Christopher Allen outlined the salon and touched upon seven major discussion topics.
 * CrossBar talked about their ReRAM technology, physical countermeasures, and system architectures.
+* Proxy talked about the challenges of software and wearable hardware wallet design.
 * Tropic Square discussed their fully auditable Tropic01 secure chip.
-* Bryan Bishop and Christopher Allen presented cryptographic primitives they'd like to see implemented in silicon.
-* Proxy will  talked about building flexibility and future-proofing into hardware products.
 
 See [Presentations](/presentations/) for the recordings of these presentations.
 
