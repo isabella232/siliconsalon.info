@@ -44,6 +44,12 @@ Discussions were held on several major topics:
 
 The following quotes offered interested insights into the topics under discussion.
 
+## Participants
+
+Thanks to our sponsors and other participants:
+
+![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/images/silicon-salon-sponsors.png)
+
 ## Chatham House Rules Apply
 
 The Silicon Salon occured under the [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule), meaning that information could be freely used by all participants and statements could be quoted, but not attributed. A goal of Blockchain Commons is to give principals in the Web3 and blockchain space the ability to discuss potential interoperability, but to do so in a safe way.
