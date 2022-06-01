@@ -17,15 +17,15 @@ gallery:
   - url: /assets/silicon-salon-1/presentations/crossbar-presentation.pdf
     image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
     alt: "CrossBar Presentation"
+  - url: "https://www.youtube.com/watch?v=us061o4PBZs"
+    image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
+    alt: "Libre-SOC Presentation"
   - url: /assets/silicon-salon-1/presentations/proxy-presentation.pdf
     image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
   - url: /assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf
     image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
     alt: "Tropic Square Presentation"
-  - url: "https://www.youtube.com/watch?v=us061o4PBZs"
-    image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
-    alt: "Libre-SOC Presentation"
   - image_path: /assets/images/empty.jpg
 ---
 
