@@ -45,8 +45,8 @@ presentation_4:
 
 {% include feature_row id="presentation_1" type="left" %}
 
-{% include feature_row id="presentation_2" type="right" %}
+{% include feature_row id="presentation_2" type="left" %}
 
 {% include feature_row id="presentation_3" type="left" %}
 
-{% include feature_row id="presentation_4" type="right" %}
+{% include feature_row id="presentation_4" type="left" %}
