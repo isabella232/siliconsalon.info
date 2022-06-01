@@ -35,3 +35,5 @@ The following quotes offered interested insights into the topics under discussio
 ## Chatham House Rules Apply
 
 The Silicon Salon occured under the Chatham Rules, meaning that information could be freely used by all participants and statements could be quoted, but not attributed. A goal of Blockchain Commons is to give principals in the Web3 and blockchain space the ability to discuss potential interoperability, but to do so in a safe way.
+
+_[attribute image]_
