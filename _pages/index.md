@@ -28,20 +28,19 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 	<a href="https://www.youtube.com/watch?v=us061o4PBZs"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
 	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
 	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
-	<img src="/assets/images/empty.jpg">
 </figure>
 
 ## Discussions
 
 Discussions were held on several major topics:
 
-1. Pain points
-2. Architectures
-3. Boot, firmware & supply chain
-4. Cryptographic primitives, protocols & acceleration
-5. Threats & countermeasures
-6. Edge topics
-7. Building a secure infrastructure ecosystem
+### 1. Pain points
+### 2. Architectures
+### 3. Boot, firmware & supply chain
+### 4. Cryptographic primitives, protocols & acceleration
+### 5. Threats & countermeasures
+### 6. Edge topics
+### 7. Building a secure infrastructure ecosystem
 
 ## Quotes
 
