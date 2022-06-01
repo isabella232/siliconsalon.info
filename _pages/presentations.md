@@ -45,7 +45,7 @@ presentation_5:
   - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
     alt: "Libre-SOC Video"
     title: "Libre-SOC Video"
-    excerpt: 'Libre-SOC offered an overview of the Libre-SOC Project as well as a discussion of challenges & solutions."
+    excerpt: 'Libre-SOC offered an overview of the Libre-SOC Project as well as a discussion of challenges & solutions.'
     url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
     btn_label: "Watch Video"
     btn_class: "btn--primary"
@@ -58,3 +58,5 @@ presentation_5:
 {% include feature_row id="presentation_3" type="left" %}
 
 {% include feature_row id="presentation_4" type="left" %}
+
+{% include feature_row id="presentation_5" type="left" %}
