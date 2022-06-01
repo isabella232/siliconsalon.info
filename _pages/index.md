@@ -33,15 +33,6 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
-"The vendor is not going to change something that will trigger re-certification unless they have a large commitment from a big player like a phone manufacturer that actually wants that functionality. It's not necessarily a problem of the specs and standards not being there, it's unwillingness to implement the features quickly because of those market dynamics."
-{: .notice--info}
-
-"One of the big problems with this that I see is that the people who are making the major components for some of these products are not the people who are making the products. There's a disconnect between what the product requirements [are] and what the components can do because there is not a tight feedback loop."
-{: .notice--info}
-
-"Kerckhoff's principle is that the system has to be secure even if it is in enemy's hands, and the only thing you need to keep secret is the key. This is not really implemented in hardware; I think open-source software is on the good path to this kind of goal but on the hardware there's a lot of work to be done."
-{: .notice--info}
-
 ## Discussions
 
 Discussions were held on several major topics:
@@ -60,10 +51,20 @@ There's also real question about what the future will bring, especially with wor
 
 ### 2. Architectures
 
+How do we establish the next generation of root-of-trust? If we’re looking at the future over the next 5-10 years, is the world moving more toward collaborative key generation through secure multi-party computation and threshold signatures? Does that lower our reliance on needing keys and signing in trusted secure hardware? 
+
+Alternatively, there have also been discussions about the nature of Secure Enclave–only architectures. Perhaps what we really need to do is more securely store keys of different types. There are many other options, such as only putting accelerators in silicon or creating devices with multiple Secure Enclaves.
+
 "To address the challenge of the 'crypto' evolving faster than chips can be made, I've wondered if it would be feasible to have essentially a "write once" FPGA-type of device."
 {: .notice--info}
 
+"Ask is it in software [or] is it in hardware, but really it’s a contiguous spectrum."
+{: .notice--info}
+
  "I think something like threshold signature is not to reduce reliance on hardware, but to enable *more* reliance on hardware. With single signature wallet, you have to store some amount of entropy off-wallet.  They typical failure is that the user forgets that off-wallet entropy  With multi-keys, you could store pieces in various locations, and have good security with decreased reliance on pin/passphrase in your head. It enables the hardware to shoulder more of the responsibility."
+{: .notice--info}
+
+"One of the challenges of architectures is that they have to fit into a larger ecosystem of chips and boards and then off to networks and things of that nature."
 {: .notice--info}
 
 "One of the most important things for a hardware wallet is to show the details of the transaction you are verifying."
@@ -83,8 +84,19 @@ There's also real question about what the future will bring, especially with wor
 {: .notice--info}
 
 ### 5. Threats & countermeasures
+
+"Kerckhoff's principle is that the system has to be secure even if it is in enemy's hands, and the only thing you need to keep secret is the key. This is not really implemented in hardware; I think open-source software is on the good path to this kind of goal but on the hardware there's a lot of work to be done."
+{: .notice--info}
+
 ### 6. Edge topics
+
 ### 7. Building a secure infrastructure ecosystem
+
+"The vendor is not going to change something that will trigger re-certification unless they have a large commitment from a big player like a phone manufacturer that actually wants that functionality. It's not necessarily a problem of the specs and standards not being there, it's unwillingness to implement the features quickly because of those market dynamics."
+{: .notice--info}
+
+"One of the big problems with this that I see is that the people who are making the major components for some of these products are not the people who are making the products. There's a disconnect between what the product requirements [are] and what the components can do because there is not a tight feedback loop."
+{: .notice--info}
 
 ## Participants
 
