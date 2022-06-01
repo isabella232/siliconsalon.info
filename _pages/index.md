@@ -9,6 +9,23 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
+
+gallery:
+  - url: /assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf
+    image_path: /assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg
+    alt: "Silicon Salon Presentation"
+  - url: /assets/silicon-salon-1/presentations/crossbar-presentation.pdf
+    image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
+    alt: "CrossBar Presentation"
+  - url: /assets/silicon-salon-1/presentations/proxy-presentation.pdf
+    image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
+    alt: "Proxy Presentation"
+  - url: /assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf
+    image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
+    alt: "Tropic Square Presentation"
+  - url: "https://www.youtube.com/watch?v=us061o4PBZs
+    image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
+    alt: "Libre-SOC Presentation"
 ---
 
 ## Overview
@@ -19,14 +36,9 @@ The Silicon Salon drew together the community to discuss requirements in order t
 
 ## Presentations
 
-The first hour of the Silicon Salon featured presentations by experts in the silicon, hardware, software, and cryptography fields.
+The first hour of the Silicon Salon featured presentations by experts in the silicon, hardware, software, and cryptography fields, including Christopher Allen, Bryan Bishop, CrossBar, Proxy, Tropic Square, and Libre-SOC.
 
-* Bryan Bishop and Christopher Allen outlined the salon and touched upon seven major discussion topics.
-* CrossBar talked about their ReRAM technology, physical countermeasures, and system architectures.
-* Proxy talked about the challenges of software and wearable hardware wallet design.
-* Tropic Square discussed their fully auditable Tropic01 secure chip.
-
-See [Presentations](/presentations/) for the recordings of these presentations.
+{% include gallery caption="See [Presentations](/presentations/) for the contents of these presentations." %}
 
 ## Discussions
 
