@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Silicon Salon I (June 1, 2022)"
+title: "Silicon Salon I: June 1, 2022"
 layout: single
 classes:
   - wide
