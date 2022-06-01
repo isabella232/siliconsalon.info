@@ -16,7 +16,7 @@ presentation_1:
     excerpt: 'The Blockchain Commons presentation outlined the main topics and issues for crypto-semiconductor design.'
     url: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
     btn_label: "Read PDF"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 presentation_2:
   - image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
     alt: "Crossbar Presentation"
@@ -24,7 +24,7 @@ presentation_2:
     excerpt: 'Crossbar covered Silicon Development for Crypto.'
     url: "/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"
     btn_label: "Read PDF"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 presentation_3:
   - image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
@@ -32,7 +32,7 @@ presentation_3:
     excerpt: 'Proxy focused on the challenges of software and wearable hardware wallet design.'
     url: "/assets/silicon-salon-1/presentations/proxy-presentation.pdf"
     btn_label: "Read PDF"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 presentation_4:
   - image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
     alt: "Tropic Square Presentation"
@@ -40,15 +40,15 @@ presentation_4:
     excerpt: 'Tropic Square presented their fully transparent and auditable chip as a basis for better hardware security.'
     url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
     btn_label: "Read PDF"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 presentation_5:
   - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
     alt: "Libre-SOC Video"
     title: "Libre-SOC Video"
     excerpt: 'Libre-SOC offered an overview of the Libre-SOC Project as well as a discussion of challenges & solutions.'
-    url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
+    url: "https://www.youtube.com/watch?v=us061o4PBZs"
     btn_label: "Watch Video"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="presentation_1" type="left" %}
