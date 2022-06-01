@@ -8,5 +8,5 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/splash-image-1.jpg
+  overlay_image: /assets/images/silicon-salon.jpg
 ---
