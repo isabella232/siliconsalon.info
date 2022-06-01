@@ -41,6 +41,14 @@ presentation_4:
     url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
     btn_label: "Read PDF"
     btn_class: "btn--primary"
+presentation_5:
+  - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
+    alt: "Libre-SOC Presentation"
+    title: "Libre-SOC Presentation"
+    excerpt: 'Libre-SOC offered an overview of the Libre-SOC Project as well as a discussion of challenges & solutions."
+    url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
+    btn_label: "Watch Video"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="presentation_1" type="left" %}
