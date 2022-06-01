@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Silicon Salon
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,34 +58,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Silicon Salon"
-  avatar : "/assets/images/bc-logo.jpg"
+  name   : "Blockchain Commons"
+  avatar : "/assets/images/bc-logo.png"
   bio    : "A Blockchain Commons event."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://www.blockchaincommons.com/"
+    - label: "Airgap Community"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "hhttps://github.com/BlockchainCommons/Airgapped-Wallet-Community"
+    - label: "Crypto Commons"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons/crypto-commons/blob/master/README.md"
+    - label: "Specifications"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons/Research/blob/master/README.md"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/BlockchainComns"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/BlockchainCommons"
 
 defaults:
   # _posts
