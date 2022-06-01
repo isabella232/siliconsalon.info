@@ -10,23 +10,6 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
 
-gallery:
-  - url: /assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf
-    image_path: /assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg
-    alt: "Silicon Salon Presentation"
-  - url: /assets/silicon-salon-1/presentations/proxy-presentation.pdf
-    image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
-    alt: "Proxy Presentation"
-  - url: "https://www.youtube.com/watch?v=us061o4PBZs"
-    image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
-    alt: "Libre-SOC Presentation"
-  - url: /assets/silicon-salon-1/presentations/crossbar-presentation.pdf
-    image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
-    alt: "CrossBar Presentation"
-  - url: /assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf
-    image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
-    alt: "Tropic Square Presentation"
-  - image_path: /assets/images/empty.jpg
 ---
 
 ## Overview
@@ -43,19 +26,10 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 	<a href="/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
 	<a href="/assets/silicon-salon-1/presentations/proxy-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
 	<a href="https://www.youtube.com/watch?v=us061o4PBZs"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
-</figure>
-
-<figure class="third">
 	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
 	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
-	img src="/assets/images/empty.jpg"></a>
+	<img src="/assets/images/empty.jpg"></a>
 </figure>
-
-abc
-
-{% include gallery %}
-
-def
 
 ## Discussions
 
