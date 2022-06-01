@@ -67,7 +67,7 @@ author:
       url: "https://www.blockchaincommons.com/"
     - label: "Airgap Community"
       icon: "fab fa-fw fa-github"
-      url: "hhttps://github.com/BlockchainCommons/Airgapped-Wallet-Community"
+      url: "https://github.com/BlockchainCommons/Airgapped-Wallet-Community"
     - label: "Crypto Commons"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlockchainCommons/crypto-commons/blob/master/README.md"
