@@ -13,20 +13,32 @@ header:
 
 ## Overview
 
-blahblahblahblah
+Currently, there are no semiconductors designed specifically for crypto-wallets, forcing wallet manufacturers to cobble together solutions from what exists. Fortunately, that’s about to change, thanks to semiconductor manufacturers such as CrossBar and Tropic Square seeking to directly address the cryptocurrency,  digital identity & assets markets. 
+
+The Silicon Salon drew together the community to discuss requirements in order to guide the direction of this new work and produce semiconductors that do exactly what the cryptocurrency market needs. It featured presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about how semiconductor design can support cryptographic functionality, as well as discussion to allow everyone to have their say.
 
 ## Presentations
 
 The first hour of the Silicon Salon featured presentations by experts in the silicon, hardware, software, and cryptography fields.
 
-* A
-* B
+* CrossBar talked about their ReRAM technology, physical countermeasures, and system architectures.
+* Tropic Square discussed their fully auditable Tropic01 secure chip.
+* Bryan Bishop and Christopher Allen presented cryptographic primitives they'd like to see implemented in silicon.
+* Proxy will  talked about building flexibility and future-proofing into hardware products.
 
 See [Presentations](/presentations/) for the recordings of these presentations.
 
 ## Discussions
 
 Discussions were held on several major topics:
+
+1. Pain points
+2. Architectures
+3. Boot, firmware & supply chain
+4. Cryptographic primitives, protocols & acceleration
+5. Threats & countermeasures
+6. Edge topics
+7. Building a secure infrastructure ecosystem
 
 ## Quotes
 
