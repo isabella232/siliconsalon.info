@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Blockchain Commons"
   avatar : "/assets/images/bc-logo.png"
-  bio    : "A Blockchain Commons event."
+#  bio    : "A Blockchain Commons event."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
