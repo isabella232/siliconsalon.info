@@ -37,9 +37,9 @@ The Silicon Salon drew together the community to discuss requirements in order t
 
 ## Presentations
 
-The first hour of the Silicon Salon featured presentations by experts in the silicon, hardware, software, and cryptography fields, including Christopher Allen, Bryan Bishop, CrossBar, Proxy, Tropic Square, and Libre-SOC.
+The first hour of the Silicon Salon featured [presentations](/presentations/) by experts in the silicon, hardware, software, and cryptography fields, including Christopher Allen, Bryan Bishop, CrossBar, Proxy, Tropic Square, and Libre-SOC.
 
-{% include gallery caption="See [Presentations](/presentations/) for the contents of these presentations." %}
+{% include gallery %}
 
 ## Discussions
 
