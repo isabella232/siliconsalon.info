@@ -33,6 +33,12 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
+"The vendor is not going to change something that will trigger re-certification unless they have a large commitment from a big player like a phone manufacturer that actually wants that functionality. It's not necessarily a problem of the specs and standards not being there, it's unwillingness to implement the features quickly because of those market dynamics."
+{: .notice--info}
+
+"One of the big problems with this that I see is that the people who are making the major components for some of these products are not the people who are making the products. There's a disconnect between what the product requirements [are] and what the components can do because there is not a tight feedback loop."
+{: .notice--info}
+
 ## Discussions
 
 Discussions were held on several major topics:
@@ -125,10 +131,14 @@ Our brief discussion of edge cases touched on issues that didn't easily fit into
 
 ### 7. Building a secure infrastructure ecosystem
 
-"The vendor is not going to change something that will trigger re-certification unless they have a large commitment from a big player like a phone manufacturer that actually wants that functionality. It's not necessarily a problem of the specs and standards not being there, it's unwillingness to implement the features quickly because of those market dynamics."
+Ultimately, we have to ask who we're missing from our discussions, and how we can bring them in, to improve the cross-discussion of requirements, and ultimately the interoperability of our field. We'd like to see more cryptographers and ultimately have more presentations by a variety of people next time we host a Silicon Salon.
+
+There were also interesting discussions about whether we can cooperate, trading peer review with each other, for example, to create a more robust ecosystem.
+
+"What does “ecosystem” mean? To me it’s much more than cryptocurrency and web3."
 {: .notice--info}
 
-"One of the big problems with this that I see is that the people who are making the major components for some of these products are not the people who are making the products. There's a disconnect between what the product requirements [are] and what the components can do because there is not a tight feedback loop."
+"Please consider User Experience, even if your expertise is far from the user level."
 {: .notice--info}
 
 ## Participants
