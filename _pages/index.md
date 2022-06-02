@@ -118,6 +118,11 @@ Threats cover issues of secure input and output, supply-chain security, memory p
 
 ### 6. Edge topics
 
+Our brief discussion of edge cases touched on issues that didn't easily fit into another topic. Briefly covered topics include why cryptographic keys can't be used for a variety of purposes, how we can do smart-contract calculation with accelerators, how to improve threat modeling and adversarial analysis, what the emergant security models are in a variety of adjacent fields, and how multisig is moving us away from single points of failure. There are a _lot_ of varied topics that are of relevance when considering the next generation of silicon design!
+
+"Why can’t I use my cryptocurrency key to secure my end-to-end encryption with Signal, instead of having that be totally orthagonal?"
+{: .notice--info}
+
 ### 7. Building a secure infrastructure ecosystem
 
 "The vendor is not going to change something that will trigger re-certification unless they have a large commitment from a big player like a phone manufacturer that actually wants that functionality. It's not necessarily a problem of the specs and standards not being there, it's unwillingness to implement the features quickly because of those market dynamics."
