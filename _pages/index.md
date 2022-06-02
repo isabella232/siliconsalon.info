@@ -51,9 +51,13 @@ There's also real question about what the future will bring, especially with wor
 
 ### 2. Architectures
 
-How do we establish the next generation of root-of-trust? If we’re looking at the future over the next 5-10 years, is the world moving more toward collaborative key generation through secure multi-party computation and threshold signatures? Does that lower our reliance on needing keys and signing in trusted secure hardware? 
+How do we establish the next generation of root-of-trust in secure silicon? There have also been discussions about the nature of Secure Enclave–only architectures. Perhaps what we really need to do is more securely store keys of different types. There are many other options, such as only putting accelerators in silicon or creating devices with multiple Secure Enclaves.
 
-Alternatively, there have also been discussions about the nature of Secure Enclave–only architectures. Perhaps what we really need to do is more securely store keys of different types. There are many other options, such as only putting accelerators in silicon or creating devices with multiple Secure Enclaves.
+However, if we’re looking at the future over the next 5-10 years, perhaps the world is moving more toward collaborative key generation through secure multi-party computation and threshold signatures. Does that lower our reliance on needing keys and signing in trusted secure hardware? 
+
+
+"One of the challenges of architectures is that they have to fit into a larger ecosystem of chips and boards and then off to networks and things of that nature."
+{: .notice--info}
 
 "To address the challenge of the 'crypto' evolving faster than chips can be made, I've wondered if it would be feasible to have essentially a "write once" FPGA-type of device."
 {: .notice--info}
@@ -64,18 +68,22 @@ Alternatively, there have also been discussions about the nature of Secure Encla
  "I think something like threshold signature is not to reduce reliance on hardware, but to enable *more* reliance on hardware. With single signature wallet, you have to store some amount of entropy off-wallet.  They typical failure is that the user forgets that off-wallet entropy  With multi-keys, you could store pieces in various locations, and have good security with decreased reliance on pin/passphrase in your head. It enables the hardware to shoulder more of the responsibility."
 {: .notice--info}
 
-"One of the challenges of architectures is that they have to fit into a larger ecosystem of chips and boards and then off to networks and things of that nature."
-{: .notice--info}
+### 3. Boot, Firmware & Supply Chain
 
-"One of the most important things for a hardware wallet is to show the details of the transaction you are verifying."
-{: .notice--info}
+Secure silicon doesn't exist on its own. There are also bootloaders and firmware and a whole supply-chain. The supply-chain needs authentication and the code needs audability and verifiability. Black-box code can make all of this problematic. Do attestations help to solve the dangers, or lists of trusted manufacturers? 
 
-### 3. Boot, firmware & supply chain
+This core issue also led to discussions of the problem of authentication, in large part due to Google moving away from passwords and toward device sign-ins. Uploading keys into HSMs and using OCAPs may both offer solutions to some of these problems. 
 
 "Firmware could be self-sovereign and the user could truly own [the chip they bought], instead of just "renting" it from the chip maker."
 {: .notice--info}
 
 "We are trying to move in the direction of zero black-box code, so we need details on the secure boot with no NDA."
+{: .notice--info}
+
+"You have to always look where are people able to lock you in in maybe ways that you’re not anticipating."
+{: .notice--info}
+
+"I am surprised frankly how much people accept entropy from unknown source."
 {: .notice--info}
 
 ### 4. Cryptographic primitives, protocols & acceleration
