@@ -101,7 +101,17 @@ One of the concerns going forward is that the lifespan of these algorithms is al
 "Random numbers are always an after thought, and they can’t be an afterthought."
 {: .notice--info}
 
-### 5. Threats & countermeasures
+"Using a randomness in a nonce is very different from using randomness for a key."
+{: .notice--info}
+
+### 5. Threats & Countermeasures
+
+Threats cover issues of secure input and output, supply-chain security, memory privacy, and side-chain resistance. Countermeasures discuss how to resolve threats, including making things tamper-evident (so that tampering can be seen), tamper-resistance (so that tampering can be made more difficult), and tamper-proof (so that tampering can't occur, which may be an impossible case). 
+
+(This and later topics got more limited discussion at the salon due to time limitations.)
+
+"I’ve taken to calling this “understandable security” rather than “proofs of security”: if you have something that you know has limitations and everyone knows what those are and you can work around those, then that’s better than a thing that nobody actually knows how it works at all."
+{: .notice--info}
 
 "Kerckhoff's principle is that the system has to be secure even if it is in enemy's hands, and the only thing you need to keep secret is the key. This is not really implemented in hardware; I think open-source software is on the good path to this kind of goal but on the hardware there's a lot of work to be done."
 {: .notice--info}
