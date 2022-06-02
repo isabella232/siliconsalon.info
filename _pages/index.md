@@ -14,9 +14,9 @@ header:
 
 ## Overview
 
-Currently, there are no semiconductors designed specifically for crypto-wallets, forcing wallet manufacturers to cobble together solutions from what exists. Fortunately, that’s about to change, thanks to semiconductor manufacturers such as CrossBar and Tropic Square seeking to directly address the cryptocurrency,  digital identity & assets markets. 
+Currently, there are no semiconductors designed specifically for crypto-wallets, forcing wallet manufacturers to cobble together solutions from what exists. Fortunately, that’s about to change, thanks to semiconductor manufacturers such as CrossBar and Tropic Square, who are seeking to directly address the cryptocurrency, digital identity & assets markets. 
 
-The Silicon Salon drew together the community to discuss requirements in order to guide the direction of this new work and produce semiconductors that do exactly what the cryptocurrency market needs. It featured presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about how semiconductor design can support cryptographic functionality, as well as discussion to allow everyone to have their say.
+The Silicon Salon drew together a variety of principals in the community to discuss requirements that can guide the direction of this new work and produce semiconductors that do exactly what the cryptocurrency market needs. It featured presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about how semiconductor design can support cryptographic functionality, as well as discussion that allowed everyone to have their say.
 
 "Crypto wallets [are] using semiconductors that are largely designed not for you but designed for other purposes. Look at a typical MCU in a wallet, you probably have a hundred such MCUs in your house. They were designed for those purposes, not for cryptocurrency."
 {: .notice--info}
@@ -47,7 +47,7 @@ Discussions were held on several major topics:
 
 Pain points describes the many problems with current semiconductor support for cryptography. This begins with support that is limited to Secure Enclaves and that doesn't include secp256k1, which is the elliptic curve used to implement Bitcoin and most other cryptocurrencies. Worse, what is supported is usually protected by NDAs and licensing restrictions, making it very hard for developers to even understand their choices. Even then, one-off cryptography, a lack of future proofing, a lack of available cryptographic talent, certification marks, and questions about market size can all make development very problematic.
 
-There's also real question about what the future will bring, especially with worries about quantum computing — and even if those aren't real, concerns that current algorithms will be broken.
+There are also real question about what the future will bring, especially with worries about quantum computing — and even if those aren't real, concerns that current algorithms will be broken in other ways, including the relentless advance of time (and thus technology).
 
 "I think there’s an inherent tension between certified & up-to-date."
 {: .notice--info}
@@ -57,10 +57,9 @@ There's also real question about what the future will bring, especially with wor
 
 ### 2. Architectures
 
-How do we establish the next generation of root-of-trust in secure silicon? There have also been discussions about the nature of Secure Enclave–only architectures. Perhaps what we really need to do is more securely store keys of different types. There are many other options, such as only putting accelerators in silicon or creating devices with multiple Secure Enclaves.
+How do we establish the next generation of root-of-trust in secure silicon? There have been discussions about the nature of Secure Enclave–only architectures. Perhaps what we really need to do is more securely store keys of different types. There are many other options, such as only putting accelerators in silicon or creating devices with multiple Secure Enclaves.
 
 However, if we’re looking at the future over the next 5-10 years, perhaps the world is moving more toward collaborative key generation through secure multi-party computation and threshold signatures. Does that lower our reliance on needing keys and signing in trusted secure hardware? 
-
 
 "One of the challenges of architectures is that they have to fit into a larger ecosystem of chips and boards and then off to networks and things of that nature."
 {: .notice--info}
@@ -76,7 +75,7 @@ However, if we’re looking at the future over the next 5-10 years, perhaps the 
 
 ### 3. Boot, Firmware & Supply Chain
 
-Secure silicon doesn't exist on its own. There are also bootloaders and firmware and a whole supply-chain. The supply-chain needs authentication and the code needs audability and verifiability. Black-box code can make all of this problematic. Do attestations help to solve the dangers, or lists of trusted manufacturers? 
+Secure silicon doesn't exist on its own. There are also bootloaders and firmware and a whole supply-chain. The supply-chain needs authentication and the code needs auditability and verifiability. Black-box code can make all of this problematic. Do attestations or lists of trusted manufacturers help to solve these problems? 
 
 This core issue also led to discussions of the problem of authentication, in large part due to Google moving away from passwords and toward device sign-ins. Uploading keys into HSMs and using OCAPs may both offer solutions to some of these problems. 
 
@@ -94,9 +93,9 @@ This core issue also led to discussions of the problem of authentication, in lar
 
 ### 4. Cryptographic primitives, protocols & acceleration
 
-The question of cryptographic primitives mainly focuses on what sorts of encryption and what curves should be supported by silicon, including questions of whether the cryptography will be ZK-friendly and quantum-attack resistant. One of the biggest problems is the lack of support for secp256k1, escpecially as Schnorr on secp becomes more important. There was also support for Ed25519/EdDSA as well as emerging technologies such as ChaCha20 and AES 512. 
+The question of cryptographic primitives mainly focuses on what sorts of encryption and what curves should be supported by silicon, including issues of whether the cryptography will be ZK-friendly and quantum-attack resistant. One of the biggest problems is the lack of support for secp256k1, escpecially as Schnorr on secp becomes more important. There was also interest in supporting Ed25519/EdDSA as well as emerging technologies such as ChaCha20 and AES 512. 
 
-One of the concerns going forward is that the lifespan of these algorithms is all limited, and by the time something has gone through full certification, half of its lifespan might already be gone!
+One of the concerns going forward is that the lifespan of these algorithms is always limited, and by the time something has gone through full certification, half of its lifespan might already be gone!
 
 "How many of the algorithms on this page are based on big-integer arithmetic and modulo? I think almost all of them."
 {: .notice--info}
@@ -112,7 +111,7 @@ One of the concerns going forward is that the lifespan of these algorithms is al
 
 ### 5. Threats & Countermeasures
 
-Threats cover issues of secure input and output, supply-chain security, memory privacy, and side-chain resistance. Countermeasures discuss how to resolve threats, including making things tamper-evident (so that tampering can be seen), tamper-resistance (so that tampering can be made more difficult), and tamper-proof (so that tampering can't occur, which may be an impossible case). 
+Threats cover issues of secure input and output, supply-chain security, memory privacy, and side-chain resistance. Countermeasures discuss how to resolve threats, including making things tamper-evident (so that tampering can be seen), tamper-resistant (so that tampering can be made more difficult), and tamper-proof (so that tampering can't occur, which may be an impossible case). 
 
 (This and later topics got more limited discussion at the salon due to time limitations.)
 
@@ -131,11 +130,11 @@ Our brief discussion of edge cases touched on issues that didn't easily fit into
 
 ### 7. Building a secure infrastructure ecosystem
 
-Ultimately, we have to ask who we're missing from our discussions, and how we can bring them in, to improve the cross-discussion of requirements, and ultimately the interoperability of our field. We'd like to see more cryptographers and ultimately have more presentations by a variety of people next time we host a Silicon Salon.
+Ultimately, we have to ask who we're missing from our discussions, and how we can bring them in, to improve the cross-discussion of requirements, and ultimately the interoperability of our field. We'd like to see more cryptographers and to have more presentations by a variety of people next time we host a Silicon Salon.
 
-There were also interesting discussions about whether we can cooperate, trading peer review with each other, for example, to create a more robust ecosystem.
+There were also interesting discussions about whether we can cooperate as a field, trading peer review with each other, for example, to create a more robust ecosystem.
 
-"What does “ecosystem” mean? To me it’s much more than cryptocurrency and web3."
+"What does “ecosystem” mean? To me it’s much more than cryptocurrency and Web3."
 {: .notice--info}
 
 "Please consider User Experience, even if your expertise is far from the user level."
