@@ -88,7 +88,17 @@ This core issue also led to discussions of the problem of authentication, in lar
 
 ### 4. Cryptographic primitives, protocols & acceleration
 
+The question of cryptographic primitives mainly focuses on what sorts of encryption and what curves should be supported by silicon, including questions of whether the cryptography will be ZK-friendly and quantum-attack resistant. One of the biggest problems is the lack of support for secp256k1, escpecially as Schnorr on secp becomes more important. There was also support for Ed25519/EdDSA as well as emerging technologies such as ChaCha20 and AES 512. 
+
+One of the concerns going forward is that the lifespan of these algorithms is all limited, and by the time something has gone through full certification, half of its lifespan might already be gone!
+
+"How many of the algorithms on this page are based on big-integer arithmetic and modulo? I think almost all of them."
+{: .notice--info}
+
 "Really, you can't do any decent work without RAM. You can't do any decent work without a secure RNG; that has to be a mandatory thing, not a bag on the side that people deal with later."
+{: .notice--info}
+
+"Random numbers are always an after thought, and they can’t be an afterthought."
 {: .notice--info}
 
 ### 5. Threats & countermeasures
