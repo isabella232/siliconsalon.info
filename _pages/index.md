@@ -18,6 +18,9 @@ Currently, there are no semiconductors designed specifically for crypto-wallets,
 
 The Silicon Salon drew together a variety of principals in the community to discuss requirements that can guide the direction of this new work and produce semiconductors that do exactly what the cryptocurrency market needs. It featured presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about how semiconductor design can support cryptographic functionality, as well as discussion that allowed everyone to have their say.
 
+"Financial incentives are failing to create a robust secure infrastructure, and this is at all levels: not just the hardware but wallets and the network stack that we need for all of our stuff to function."
+{: .notice--info}
+
 "Crypto wallets [are] using semiconductors that are largely designed not for you but designed for other purposes. Look at a typical MCU in a wallet, you probably have a hundred such MCUs in your house. They were designed for those purposes, not for cryptocurrency."
 {: .notice--info}
 
@@ -32,11 +35,6 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
 	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
-
-### Silicon Salon Key Quotes
-
-"Financial incentives are failing to create a robust secure infrastructure, and this is at all levels: not just the hardware but wallets and the network stack that we need for all of our stuff to function."
-{: .notice--info}
 
 ### CrossBar Key Quotes
 
@@ -75,8 +73,6 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 "Use libre VLSI tools because you want people to be able to independently verify your GDS-II files, then you can't rely on a proprietary toolchain. At the moment you would be limited to about 130 nm, which you can use to achieve 700 Mhz which is not that bad."
 {: .notice--info}
 
---
-
 ## Discussions
 
 Discussions were held on several major topics:
@@ -102,13 +98,19 @@ However, if we’re looking at the future over the next 5-10 years, perhaps the 
 "One of the challenges of architectures is that they have to fit into a larger ecosystem of chips and boards and then off to networks and things of that nature."
 {: .notice--info}
 
+"People ask is it in software, is it in hardware, but really it's a contiguous spectrum. You could think of a state machine that has registers and it is connected to logic, or you have shared memory, or you could have microcode, or a real CPU, or a CPU with a bus fabric that doesn't have a connection to the secret, but you have some memory protection unit or you can do everything in software."
+{: .notice--info}
+
 "To address the challenge of the 'crypto' evolving faster than chips can be made, I've wondered if it would be feasible to have essentially a "write once" FPGA-type of device."
 {: .notice--info}
 
-"Ask is it in software [or] is it in hardware, but really it’s a contiguous spectrum."
+"It's not that there's a particular high security low level path between the things ... it's nice if those buttons don't go through untrusted elements on the way to the SE. The shorter the path, the better from a security standpoint."
 {: .notice--info}
 
  "I think something like threshold signature is not to reduce reliance on hardware, but to enable *more* reliance on hardware. With single signature wallet, you have to store some amount of entropy off-wallet.  They typical failure is that the user forgets that off-wallet entropy  With multi-keys, you could store pieces in various locations, and have good security with decreased reliance on pin/passphrase in your head. It enables the hardware to shoulder more of the responsibility."
+{: .notice--info}
+
+"These often run in passive power environments like your credit card for example has a JavaCard SE in it but it's not powered, it's only powered by the NFC field of the reader. So essentially your processing call will start and stop based on available power from being in the NFC field and being removed, and it needs to persist its entire state and re-hydrate when you put it back into a power field. It's a little bit different to code for.
 {: .notice--info}
 
 ### 3. Boot, Firmware & Supply Chain
@@ -127,6 +129,15 @@ This core issue also led to discussions of the problem of authentication, in lar
 {: .notice--info}
 
 "I am surprised frankly how much people accept entropy from unknown source."
+{: .notice--info}
+
+"I am nervous about a push that is anti-self-sovereign like on identity and authentication. What I suspect will happen is: well here is a trusted set of manufacturers where they are generating the keys for the user, and we think it's a security vulnerability if a user is generating and uploading their own key to the HSM."
+{: .notice--info}
+
+"It's often these little small things that get you in the end. With twitter, lots of people were saying "oh great twitter open APIs, we're building companies on top of it!", but then there's that one little API call which is "please use my API token" and they basically started limiting that and shutdown that entire ecosystem. So you have to always look where are people able to lock you in in ways that you're not anticipating."
+{: .notice--info}
+
+"one of the things we haven't talked about ... is external memory encryption, any sort of external flash chip being able to support on-the-fly real encryption and decryption of all memory access. That often becomes a weakpoint. Sometimes there's sensitive data that needs to go into external memory due to size limitations (e.g. biometric templates), sometimes there is execute-in-place (XIP) code that lives in external flash, and it's not often covered by memory protection that your MCU or SE might offer.
 {: .notice--info}
 
 ### 4. Cryptographic primitives, protocols & acceleration
