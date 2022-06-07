@@ -24,9 +24,10 @@ presentation_2:
     excerpt: 'Crossbar covered Silicon Development for Crypto.'
     url: "https://www.youtube.com/watch?v=F6rjYPNE1-4"
     btn_label: "Watch Video"
-    btn_class: "btn--success"
+    btn_class: "btn--info"
     url2: "/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"
     btn_label2: "View Slides"
+    btn_class2: "btn--success"
 presentation_3:
   - image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
@@ -36,16 +37,19 @@ presentation_3:
     btn_label: "Watch Video"
     btn_class: "btn--info"
     url2: "/assets/silicon-salon-1/presentations/proxy-presentation.pdf"
-    btn_label2: "View Labels"
+    btn_label2: "View Slides"
     btn_class2: "btn--success"
 presentation_4:
   - image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
     alt: "Tropic Square Presentation"
     title: "Tropic Square Presentation"
     excerpt: 'Tropic Square presented their fully transparent and auditable chip as a basis for better hardware security.'
-    url: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
-    btn_label: "Read PDF"
-    btn_class: "btn--success"
+    url: "https://www.youtube.com/watch?v=g43vvXUw16Y"
+    btn_label: "Watch Video"
+    btn_class: "btn--info"
+    url2: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
+    btn_label2: "View Slides"
+    btn_class2: "btn--success"
 presentation_5:
   - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
     alt: "Libre-SOC Video"
