@@ -33,11 +33,49 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
+### Silicon Salon Key Quotes
+
+"Financial incentives are failing to create a robust secure infrastructure, and this is at all levels: not just the hardware but wallets and the network stack that we need for all of our stuff to function."
+{: .notice--info}
+
+### CrossBar Key Quotes
+
+"There are really quite different cultures here. In chips, it's super expensive to develop a chip. Rather than thinking in terms of cost to acquire a customer, we think of the tooling cost and our key metric is gross margin."
+{: .notice--info}
+
+### Proxy Key Quotes
+
+"Since we're so limited in space and power, we work with a high degree of integration, and we're not dealing with discrete components often. We are talking about multi-chip packages which are highly integrated, to save on space and power and routing area on the circuit boards."
+{: .notice--info}
+
 "The vendor is not going to change something that will trigger re-certification unless they have a large commitment from a big player like a phone manufacturer that actually wants that functionality. It's not necessarily a problem of the specs and standards not being there, it's unwillingness to implement the features quickly because of those market dynamics."
 {: .notice--info}
 
 "One of the big problems with this that I see is that the people who are making the major components for some of these products are not the people who are making the products. There's a disconnect between what the product requirements [are] and what the components can do because there is not a tight feedback loop."
 {: .notice--info}
+
+"Let's find ways to build architectures where some of the existing applications can co-exist with some of the new stuff being developed by crypto-wallets."
+{: .notice--info}
+
+### Tropic Square Key Quotes
+
+"There is a problem in the market of chips that you can't buy a transparent chip so you have to trust the vendor and you have little to no visibility to implementation."
+{: .notice--info}
+
+"Kerckhoff's principle is that the system has to be secure even if it is in enemy's hands, and the only thing you need to keep secret is the key. This is not really implemented in hardware; I think open-source software is on the good path to this kind of goal but on the hardware there's a lot of work to be done."
+{: .notice--info}
+
+"Security in obscurity is the existing status quo where you rely on the secrecy of the implementation and all these processes, which basically has a side-effect of keeping weak designs in production."
+{: .notice--info}
+
+### Libre-SOC Key Quotes
+"The challenges that a crypto-wallet ASIC faces is first and foremost that there is a massive industry-wide paranoid 5-layer-deep NDA chain."
+{: .notice--info}
+
+"Use libre VLSI tools because you want people to be able to independently verify your GDS-II files, then you can't rely on a proprietary toolchain. At the moment you would be limited to about 130 nm, which you can use to achieve 700 Mhz which is not that bad."
+{: .notice--info}
+
+--
 
 ## Discussions
 
@@ -116,9 +154,6 @@ Threats cover issues of secure input and output, supply-chain security, memory p
 (This and later topics got more limited discussion at the salon due to time limitations.)
 
 "I’ve taken to calling this “understandable security” rather than “proofs of security”: if you have something that you know has limitations and everyone knows what those are and you can work around those, then that’s better than a thing that nobody actually knows how it works at all."
-{: .notice--info}
-
-"Kerckhoff's principle is that the system has to be secure even if it is in enemy's hands, and the only thing you need to keep secret is the key. This is not really implemented in hardware; I think open-source software is on the good path to this kind of goal but on the hardware there's a lot of work to be done."
 {: .notice--info}
 
 ### 6. Edge topics
