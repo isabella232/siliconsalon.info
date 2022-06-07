@@ -23,7 +23,7 @@ presentation_2:
     title: "Crossbar Presentation"
     excerpt: 'Crossbar covered Silicon Development for Crypto.'
     url: "https://www.youtube.com/watch?v=F6rjYPNE1-4"
-    btn_label: "Watch Presentation"
+    btn_label: "Watch Video"
     btn_class: "btn--success"
     url2: "/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"
     btn_label2: "View Slides"
@@ -32,9 +32,12 @@ presentation_3:
     alt: "Proxy Presentation"
     title: "Proxy Presentation"
     excerpt: 'Proxy focused on the challenges of software and wearable hardware wallet design.'
-    url: "/assets/silicon-salon-1/presentations/proxy-presentation.pdf"
-    btn_label: "Read PDF"
-    btn_class: "btn--success"
+    url: "https://www.youtube.com/watch?v=A9QtdeWqC6U"
+    btn_label: "Watch Video"
+    btn_class: "btn--info"
+    url2: "/assets/silicon-salon-1/presentations/proxy-presentation.pdf"
+    btn_label2: "View Labels"
+    btn_class2: "btn--success"
 presentation_4:
   - image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
     alt: "Tropic Square Presentation"
