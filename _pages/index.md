@@ -146,16 +146,38 @@ The question of cryptographic primitives mainly focuses on what sorts of encrypt
 
 One of the concerns going forward is that the lifespan of these algorithms is always limited, and by the time something has gone through full certification, half of its lifespan might already be gone!
 
+### On Cryptography
+
 "How many of the algorithms on this page are based on big-integer arithmetic and modulo? I think almost all of them."
 {: .notice--info}
 
 "Really, you can't do any decent work without RAM. You can't do any decent work without a secure RNG; that has to be a mandatory thing, not a bag on the side that people deal with later."
 {: .notice--info}
 
+"There are things that we should not be doing in any other way except software, like MPC. MPC has far more promise than reality now. The primitives that go into the hardware ought to be things like fast exponentiation, but not MPC.
+{: .notice--info}
+
 "Random numbers are always an after thought, and they can’t be an afterthought."
 {: .notice--info}
 
 "Using a randomness in a nonce is very different from using randomness for a key."
+{: .notice--info}
+
+### On Silicon Requests
+
+"I would like to see a Schnorr API that allows for a user supplied challenge hash, so it can be used for many different types of Schnorr signatures, including MuSig, FROST, and adaptor signatures."
+{: .notice--info}
+
+"I would throw in a vote for Ed25519/EdDSA, for authenticator/FIDO2 reasons. It is one of the authenticator methods specified by FIDO and is becoming more and more common."
+{: .notice--info}
+
+"End-user verification of entropy being truly random could be cool."
+{: .notice--info}
+
+"I also see a lot of the newer zero-knowledge proofs (ZKPs) are moving to 'trustless setups' where as long as there is one honest participant, or even with ROAST you can have a majority of malicious participants, yet the calculations can still happen. Can we bring some of that stuff down to the silicon so that even the silicon does not need to be as trusted?"
+{: .notice--info}
+
+"One idea is continuous verification and sampling of TRNGs. Or the ability to give some entropy into the chip and the chip then incorporates the third-party randomness along with its own internal randomness and then is able to prove that it did do this without revealing its seed randomness.
 {: .notice--info}
 
 ### 5. Threats & Countermeasures
@@ -174,6 +196,9 @@ Our brief discussion of edge cases touched on issues that didn't easily fit into
 "Why can’t I use my cryptocurrency key to secure my end-to-end encryption with Signal, instead of having that be totally orthagonal?"
 {: .notice--info}
 
+"What we have encountered is that multisig changes threat models hugely. ... With multisig, maybe my phone gets corrupted but that's fine because it's not a single point of failure in my cryptographic setup.
+{: .notice--info}
+
 ### 7. Building a secure infrastructure ecosystem
 
 Ultimately, we have to ask who we're missing from our discussions, and how we can bring them in, to improve the cross-discussion of requirements, and ultimately the interoperability of our field. We'd like to see more cryptographers and to have more presentations by a variety of people next time we host a Silicon Salon.
@@ -184,6 +209,9 @@ There were also interesting discussions about whether we can cooperate as a fiel
 {: .notice--info}
 
 "Please consider User Experience, even if your expertise is far from the user level."
+{: .notice--info}
+
+"Can I get 80 hours of peer review in return for my experts doing 80 hours of peer review of your products?"
 {: .notice--info}
 
 ## Participants
