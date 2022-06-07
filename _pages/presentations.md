@@ -15,16 +15,18 @@ presentation_1:
     title: "Silicon Salon Overview"
     excerpt: 'The Blockchain Commons presentation outlined the main topics and issues for crypto-semiconductor design.'
     url: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
-    btn_label: "Read PDF"
+    btn_label: "View Slides"
     btn_class: "btn--success"
 presentation_2:
   - image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
     alt: "Crossbar Presentation"
     title: "Crossbar Presentation"
     excerpt: 'Crossbar covered Silicon Development for Crypto.'
-    url: "/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"
-    btn_label: "Read PDF"
+    url: "https://www.youtube.com/watch?v=F6rjYPNE1-4"
+    btn_label: "Watch Presentation"
     btn_class: "btn--success"
+    url2: "/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"
+    btn_label2: "View Slides"
 presentation_3:
   - image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
