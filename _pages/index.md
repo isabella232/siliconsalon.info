@@ -223,7 +223,7 @@ There were also interesting discussions about whether we can cooperate as a fiel
 
 ## Participants
 
-Thanks to our sponsors and other participants:
+Thanks to our participants:
 
 ![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/images/silicon-salon-sponsors.png)
 
