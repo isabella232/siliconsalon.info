@@ -64,6 +64,9 @@ presentation_5:
     url2: "/assets/silicon-salon-1/presentations/libresoc-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://libre-soc.org/conferences/siliconsalon2022/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 ---
 
 {% include feature_row id="presentation_1" type="left" %}
