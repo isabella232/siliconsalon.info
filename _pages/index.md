@@ -83,14 +83,14 @@ Pain points describes the many problems with current semiconductor support for c
 
 There are also real question about what the future will bring, especially with worries about quantum computing — and even if those aren't real, concerns that current algorithms will be broken in other ways, including the relentless advance of time (and thus technology). 
 
-[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/88){: .btn .btn--info}
-{: .text-right}
-
 "I think there’s an inherent tension between certified & up-to-date."
 {: .notice--info}
 
 "Communication and collaboration is a pain point. One of the problems is that there's a general attitude of competition worldwide and I think it's worthwhile to emphasize that this has to be a collaborative effort. It's too big and complex for it to not be collaborative."
 {: .notice--info}
+
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/88){: .btn .btn--info}
+{: .text-right}
 
 ### 2. Architectures
 
@@ -123,6 +123,9 @@ However, if we’re looking at the future over the next 5-10 years, perhaps the 
 "one of the things we haven't talked about ... is external memory encryption, any sort of external flash chip being able to support on-the-fly real encryption and decryption of all memory access. That often becomes a weakpoint. Sometimes there's sensitive data that needs to go into external memory due to size limitations (e.g. biometric templates), sometimes there is execute-in-place (XIP) code that lives in external flash, and it's not often covered by memory protection that your MCU or SE might offer.
 {: .notice--info}
 
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/89){: .btn .btn--info}
+{: .text-right}
+
 ### 3. Boot, Firmware & Supply Chain
 
 Secure silicon doesn't exist on its own. There are also bootloaders and firmware and a whole supply-chain. The supply-chain needs authentication and the code needs auditability and verifiability. Black-box code can make all of this problematic. Do attestations or lists of trusted manufacturers help to solve these problems? 
@@ -149,6 +152,9 @@ This core issue also led to discussions of the problem of authentication, in lar
 
 "I am nervous about a push that is anti-self-sovereign like on identity and authentication. What I suspect will happen is: well here is a trusted set of manufacturers where they are generating the keys for the user, and we think it's a security vulnerability if a user is generating and uploading their own key to the HSM."
 {: .notice--info}
+
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/90){: .btn .btn--info}
+{: .text-right}
 
 ### 4. Cryptographic primitives, protocols & acceleration
 
@@ -190,6 +196,9 @@ One of the concerns going forward is that the lifespan of these algorithms is al
 "One idea is continuous verification and sampling of TRNGs. Or the ability to give some entropy into the chip and the chip then incorporates the third-party randomness along with its own internal randomness and then is able to prove that it did do this without revealing its seed randomness.
 {: .notice--info}
 
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/91){: .btn .btn--info}
+{: .text-right}
+
 ### 5. Threats & Countermeasures
 
 Threats cover issues of secure input and output, supply-chain security, memory privacy, and side-chain resistance. Countermeasures discuss how to resolve threats, including making things tamper-evident (so that tampering can be seen), tamper-resistant (so that tampering can be made more difficult), and tamper-proof (so that tampering can't occur, which may be an impossible case). 
@@ -198,6 +207,9 @@ Threats cover issues of secure input and output, supply-chain security, memory p
 
 "I’ve taken to calling this “understandable security” rather than “proofs of security”: if you have something that you know has limitations and everyone knows what those are and you can work around those, then that’s better than a thing that nobody actually knows how it works at all."
 {: .notice--info}
+
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/92){: .btn .btn--info}
+{: .text-right}
 
 ### 6. Edge topics
 
@@ -208,6 +220,9 @@ Our brief discussion of edge cases touched on issues that didn't easily fit into
 
 "What we have encountered is that multisig changes threat models hugely. ... With multisig, maybe my phone gets corrupted but that's fine because it's not a single point of failure in my cryptographic setup.
 {: .notice--info}
+
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/93){: .btn .btn--info}
+{: .text-right}
 
 ### 7. Building a secure infrastructure ecosystem
 
@@ -223,6 +238,9 @@ There were also interesting discussions about whether we can cooperate as a fiel
 
 "Can I get 80 hours of peer review in return for my experts doing 80 hours of peer review of your products?"
 {: .notice--info}
+
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/94){: .btn .btn--info}
+{: .text-right}
 
 ## Participants
 
