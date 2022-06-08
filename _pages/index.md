@@ -246,7 +246,7 @@ There were also interesting discussions about whether we can cooperate as a fiel
 
 Thanks to our participants, including:
 
-![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/siliconsalon1/images/silicon-salon-sponsors.png)
+![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/silicon-salon-1/images/silicon-salon-sponsors.png)
 
 * **Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
 * **Facilitators:** Christopher Allen, Bryan Bishop
