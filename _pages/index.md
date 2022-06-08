@@ -131,6 +131,11 @@ This core issue also led to discussions of the problem of authentication, in lar
 "Firmware could be self-sovereign and the user could truly own [the chip they bought], instead of just "renting" it from the chip maker."
 {: .notice--info}
 
+#### On Entropy
+
+"I am surprised frankly how much people accept entropy from unknown source."
+{: .notice--info}
+
 #### On Lock-In
 
 "We are trying to move in the direction of zero black-box code, so we need details on the secure boot with no NDA."
@@ -140,11 +145,6 @@ This core issue also led to discussions of the problem of authentication, in lar
 {: .notice--info}
 
 "I am nervous about a push that is anti-self-sovereign like on identity and authentication. What I suspect will happen is: well here is a trusted set of manufacturers where they are generating the keys for the user, and we think it's a security vulnerability if a user is generating and uploading their own key to the HSM."
-{: .notice--info}
-
-#### On Entropy
-
-"I am surprised frankly how much people accept entropy from unknown source."
 {: .notice--info}
 
 ### 4. Cryptographic primitives, protocols & acceleration
@@ -226,6 +226,11 @@ There were also interesting discussions about whether we can cooperate as a fiel
 Thanks to our sponsors and other participants:
 
 ![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/images/silicon-salon-sponsors.png)
+
+**Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
+**Facilitators:** Christopher Allen, Bryan Bishop
+**Presenters:** [CrossBar](https://www.crossbar-inc.com/), [Proxy](https://www.proxy.com/), [Tropic Square](https://tropicsquare.com/), [Libre-SOC](https://libre-soc.org/)
+**Sustaining Sponsors:** [Bitmark](https://bitmark.com/), [Blockchainbird](https://github.com/blockchainbird/bird), [CrossBar](https://www.crossbar-inc.com/), [Foundation Devices](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [Unchained Capital](https://unchained.com/)
 
 ## Chatham House Rules Apply
 
