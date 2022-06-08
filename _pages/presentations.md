@@ -15,8 +15,8 @@ presentation_1:
     title: "Silicon Salon Overview"
     excerpt: 'The Blockchain Commons presentation outlined the main topics and issues for crypto-semiconductor design.'
     url: "https://www.youtube.com/watch?v=YBQh_WHyPAs"
-    btn_label: "View Slides"
-    btn_class: "btn--success"
+    btn_label: "Watch Intro"
+    btn_class: "btn--info"
     url2: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
@@ -61,6 +61,9 @@ presentation_5:
     url: "https://www.youtube.com/watch?v=us061o4PBZs"
     btn_label: "Watch Video"
     btn_class: "btn--info"
+    url2: "/assets/silicon-salon-1/presentations/libresoc-presentation.pdf"
+    btn_label2: "View Slides"
+    btn_class2: "btn--success"
 ---
 
 {% include feature_row id="presentation_1" type="left" %}
