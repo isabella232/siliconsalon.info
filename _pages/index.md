@@ -227,10 +227,10 @@ Thanks to our sponsors and other participants:
 
 ![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/images/silicon-salon-sponsors.png)
 
-**Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
-**Facilitators:** Christopher Allen, Bryan Bishop
-**Presenters:** [CrossBar](https://www.crossbar-inc.com/), [Proxy](https://www.proxy.com/), [Tropic Square](https://tropicsquare.com/), [Libre-SOC](https://libre-soc.org/)
-**Sustaining Sponsors:** [Bitmark](https://bitmark.com/), [Blockchainbird](https://github.com/blockchainbird/bird), [CrossBar](https://www.crossbar-inc.com/), [Foundation Devices](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [Unchained Capital](https://unchained.com/)
+* **Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
+* **Facilitators:** Christopher Allen, Bryan Bishop
+* **Presenters:** [CrossBar](https://www.crossbar-inc.com/), [Proxy](https://www.proxy.com/), [Tropic Square](https://tropicsquare.com/), [Libre-SOC](https://libre-soc.org/)
+* **Sustaining Sponsors:** [Bitmark](https://bitmark.com/), [Blockchainbird](https://github.com/blockchainbird/bird), [CrossBar](https://www.crossbar-inc.com/), [Foundation Devices](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [Unchained Capital](https://unchained.com/)
 
 ## Chatham House Rules Apply
 
