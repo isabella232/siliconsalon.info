@@ -14,9 +14,12 @@ presentation_1:
     alt: "Silicon Salon Overview"
     title: "Silicon Salon Overview"
     excerpt: 'The Blockchain Commons presentation outlined the main topics and issues for crypto-semiconductor design.'
-    url: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
+    url: "https://www.youtube.com/watch?v=YBQh_WHyPAs"
     btn_label: "View Slides"
     btn_class: "btn--success"
+    url2: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
+    btn_label2: "View Slides"
+    btn_class2: "btn--success"
 presentation_2:
   - image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
     alt: "Crossbar Presentation"
