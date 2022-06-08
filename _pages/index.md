@@ -77,9 +77,9 @@ The first hour of the Silicon Salon featured [presentations](/presentations/) by
 
 Discussions were held on several major topics:
 
-### 1. Pain points
-
 [Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/88){: .btn .btn--info .align-right}
+
+### 1. Pain points
 
 Pain points describes the many problems with current semiconductor support for cryptography. This begins with support that is limited to Secure Enclaves and that doesn't include secp256k1, which is the elliptic curve used to implement Bitcoin and most other cryptocurrencies. Worse, what is supported is usually protected by NDAs and licensing restrictions, making it very hard for developers to even understand their choices. Even then, one-off cryptography, a lack of future proofing, a lack of available cryptographic talent, certification marks, and questions about market size can all make development very problematic.
 
