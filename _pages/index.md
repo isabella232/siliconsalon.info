@@ -83,7 +83,7 @@ Pain points describes the many problems with current semiconductor support for c
 
 There are also real question about what the future will bring, especially with worries about quantum computing — and even if those aren't real, concerns that current algorithms will be broken in other ways, including the relentless advance of time (and thus technology). 
 
-[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/88){: .btn .btn--info .align-right}
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/88){: .btn .btn--info .text-right}
 
 "I think there’s an inherent tension between certified & up-to-date."
 {: .notice--info}
