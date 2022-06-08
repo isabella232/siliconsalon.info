@@ -95,6 +95,8 @@ How do we establish the next generation of root-of-trust in secure silicon? Ther
 
 However, if we’re looking at the future over the next 5-10 years, perhaps the world is moving more toward collaborative key generation through secure multi-party computation and threshold signatures. Does that lower our reliance on needing keys and signing in trusted secure hardware? 
 
+#### On the Big Picture
+
 "One of the challenges of architectures is that they have to fit into a larger ecosystem of chips and boards and then off to networks and things of that nature."
 {: .notice--info}
 
@@ -103,6 +105,8 @@ However, if we’re looking at the future over the next 5-10 years, perhaps the 
 
 "To address the challenge of the 'crypto' evolving faster than chips can be made, I've wondered if it would be feasible to have essentially a "write once" FPGA-type of device."
 {: .notice--info}
+
+#### On Architectural Elements
 
 "It's not that there's a particular high security low level path between the things ... it's nice if those buttons don't go through untrusted elements on the way to the SE. The shorter the path, the better from a security standpoint."
 {: .notice--info}
@@ -113,14 +117,21 @@ However, if we’re looking at the future over the next 5-10 years, perhaps the 
 "These often run in passive power environments like your credit card for example has a JavaCard SE in it but it's not powered, it's only powered by the NFC field of the reader. So essentially your processing call will start and stop based on available power from being in the NFC field and being removed, and it needs to persist its entire state and re-hydrate when you put it back into a power field. It's a little bit different to code for.
 {: .notice--info}
 
+"one of the things we haven't talked about ... is external memory encryption, any sort of external flash chip being able to support on-the-fly real encryption and decryption of all memory access. That often becomes a weakpoint. Sometimes there's sensitive data that needs to go into external memory due to size limitations (e.g. biometric templates), sometimes there is execute-in-place (XIP) code that lives in external flash, and it's not often covered by memory protection that your MCU or SE might offer.
+{: .notice--info}
+
 ### 3. Boot, Firmware & Supply Chain
 
 Secure silicon doesn't exist on its own. There are also bootloaders and firmware and a whole supply-chain. The supply-chain needs authentication and the code needs auditability and verifiability. Black-box code can make all of this problematic. Do attestations or lists of trusted manufacturers help to solve these problems? 
 
 This core issue also led to discussions of the problem of authentication, in large part due to Google moving away from passwords and toward device sign-ins. Uploading keys into HSMs and using OCAPs may both offer solutions to some of these problems. 
 
+#### On Firmware
+
 "Firmware could be self-sovereign and the user could truly own [the chip they bought], instead of just "renting" it from the chip maker."
 {: .notice--info}
+
+#### On Lock-In
 
 "We are trying to move in the direction of zero black-box code, so we need details on the secure boot with no NDA."
 {: .notice--info}
@@ -128,16 +139,12 @@ This core issue also led to discussions of the problem of authentication, in lar
 "You have to always look where are people able to lock you in in maybe ways that you’re not anticipating."
 {: .notice--info}
 
-"I am surprised frankly how much people accept entropy from unknown source."
-{: .notice--info}
-
 "I am nervous about a push that is anti-self-sovereign like on identity and authentication. What I suspect will happen is: well here is a trusted set of manufacturers where they are generating the keys for the user, and we think it's a security vulnerability if a user is generating and uploading their own key to the HSM."
 {: .notice--info}
 
-"It's often these little small things that get you in the end. With twitter, lots of people were saying "oh great twitter open APIs, we're building companies on top of it!", but then there's that one little API call which is "please use my API token" and they basically started limiting that and shutdown that entire ecosystem. So you have to always look where are people able to lock you in in ways that you're not anticipating."
-{: .notice--info}
+#### On Entropy
 
-"one of the things we haven't talked about ... is external memory encryption, any sort of external flash chip being able to support on-the-fly real encryption and decryption of all memory access. That often becomes a weakpoint. Sometimes there's sensitive data that needs to go into external memory due to size limitations (e.g. biometric templates), sometimes there is execute-in-place (XIP) code that lives in external flash, and it's not often covered by memory protection that your MCU or SE might offer.
+"I am surprised frankly how much people accept entropy from unknown source."
 {: .notice--info}
 
 ### 4. Cryptographic primitives, protocols & acceleration
