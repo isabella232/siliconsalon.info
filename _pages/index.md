@@ -146,7 +146,7 @@ The question of cryptographic primitives mainly focuses on what sorts of encrypt
 
 One of the concerns going forward is that the lifespan of these algorithms is always limited, and by the time something has gone through full certification, half of its lifespan might already be gone!
 
-### On Cryptography
+#### On Cryptography
 
 "How many of the algorithms on this page are based on big-integer arithmetic and modulo? I think almost all of them."
 {: .notice--info}
@@ -163,7 +163,7 @@ One of the concerns going forward is that the lifespan of these algorithms is al
 "Using a randomness in a nonce is very different from using randomness for a key."
 {: .notice--info}
 
-### On Silicon Requests
+#### On Silicon Requests
 
 "I would like to see a Schnorr API that allows for a user supplied challenge hash, so it can be used for many different types of Schnorr signatures, including MuSig, FROST, and adaptor signatures."
 {: .notice--info}
