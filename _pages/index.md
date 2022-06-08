@@ -29,11 +29,11 @@ The Silicon Salon drew together a variety of principals in the community to disc
 The first hour of the Silicon Salon featured [presentations](/presentations/) by experts in the silicon, hardware, software, and cryptography fields, including Christopher Allen, Bryan Bishop, CrossBar, Proxy, Tropic Square, and Libre-SOC.
 
 <figure class="third">
-	<a href="/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
-	<a href="/assets/silicon-salon-1/presentations/proxy-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
-	<a href="https://www.youtube.com/watch?v=us061o4PBZs"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
-	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
-	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/presentations/"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/presentations/"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/presentations/"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/presentations/"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/presentations/"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
 ### CrossBar Key Quotes
