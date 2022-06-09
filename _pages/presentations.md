@@ -22,9 +22,9 @@ presentation_1:
     btn_class2: "btn--success"
 presentation_2:
   - image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
-    alt: "Crossbar Presentation"
-    title: "Crossbar Presentation"
-    excerpt: 'Crossbar covered Silicon Development for Crypto.'
+    alt: "CrossBar Presentation"
+    title: "CrossBar Presentation"
+    excerpt: 'CrossBar covered Silicon Development for Crypto.'
     url: "https://www.youtube.com/watch?v=F6rjYPNE1-4"
     btn_label: "Watch Video"
     btn_class: "btn--info"
