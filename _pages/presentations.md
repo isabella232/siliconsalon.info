@@ -31,6 +31,9 @@ presentation_2:
     url2: "/assets/silicon-salon-1/presentations/crossbar-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/crossbar/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_3:
   - image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
@@ -42,6 +45,9 @@ presentation_3:
     url2: "/assets/silicon-salon-1/presentations/proxy-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/proxy/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_4:
   - image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
     alt: "Tropic Square Presentation"
@@ -53,6 +59,9 @@ presentation_4:
     url2: "/assets/silicon-salon-1/presentations/tropicsquare-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/tropic-square/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_5:
   - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
     alt: "Libre-SOC Video"
@@ -64,7 +73,7 @@ presentation_5:
     url2: "/assets/silicon-salon-1/presentations/libresoc-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
-    url3: "https://libre-soc.org/conferences/siliconsalon2022/"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/libre-soc/"
     btn_label3: "Read Transcript"
     btn_class3: "btn--success"
 ---
