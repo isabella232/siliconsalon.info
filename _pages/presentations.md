@@ -20,6 +20,9 @@ presentation_1:
     url2: "/assets/silicon-salon-1/presentations/silicon-salon-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/intro/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_2:
   - image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
     alt: "CrossBar Presentation"
