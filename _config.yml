@@ -75,6 +75,9 @@ author:
 
 footer:
   links:
+    - label: "Blockchain Commons"
+      icon: "fas fa-fw fa-link"
+      url: "https://twitter.com/BlockchainComns"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BlockchainComns"
