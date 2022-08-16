@@ -1,5 +1,5 @@
 ---
-permalink: /siliconsalon1/presentations/
+permalink: /salon1/presentations/
 title: "Silicon Salon I: Presentations"
 layout: single
 classes:
