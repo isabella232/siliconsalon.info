@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "The Silicon Salon
-subtitle: "Semiconductor Solutions for Cryptography"
 layout: single
 classes:
   - wide
