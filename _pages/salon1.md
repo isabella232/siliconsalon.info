@@ -1,5 +1,5 @@
 ---
-permalink: /siliconsalon1/
+permalink: /salon1/
 title: "Silicon Salon I: June 1, 2022"
 layout: single
 classes:
