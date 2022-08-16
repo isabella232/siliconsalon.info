@@ -1,0 +1,21 @@
+
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+hr { 
+  background-color: green; 
+  height: 1px; 
+  border: 0; 
+}
+
+.page__subtitle {
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
