@@ -14,7 +14,7 @@ salon1:
   - image_path: /assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg
     alt: "Silicon Salon 1"
     title: "Silicon Salon 1"
-    excerpt: 'The first Silicon Salon featured presentations by CrossBar, Proxy, Tropic Square, and Libre-SOC.'
+    excerpt: '**June 1, 2022.** The first Silicon Salon featured presentations by CrossBar, Proxy, Tropic Square, and Libre-SOC.'
     url: "/salon1/"
     btn_label: "Overview"
     btn_class: "btn--success"
