@@ -15,7 +15,7 @@ salon1:
     alt: "Silicon Salon 1"
     title: "Silicon Salon 1"
     excerpt: 'The first Silicon Salon featured presentations by CrossBar, Proxy, Tropic Square, and Libre-SOC.'
-    url: "/salon1/presentations/"
+    url: "/salon1/"
     btn_label: "Overview"
     btn_class: "btn--success"
     url2: "/salon1/presentations/"
@@ -32,6 +32,8 @@ salon1:
 ***What is the Silicon Salon?*** Currently, there are no semiconductors designed specifically for crypto-wallets, forcing wallet developers to cobble together solutions from what exists. Fortunately, that’s about to change, thanks to semiconductor manufacturers such as CrossBar and Tropic Square, who are seeking to directly address the cryptocurrency, digital identity & assets markets. 
 
 The object of the Silicon Salons is to bring together these two groups: wallet developers and semiconductor manufacturers. By working together, we can ensure that the first generation of cryptographic semiconductors meets everyone's needs, advancing the entire cryptography industry.
+
+---
 
 {% include feature_row id="salon1" type="left" %}
 
