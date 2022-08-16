@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Silicon Salon I: June 1, 2022"
+title: "The Silicon Salon: Semiconductor Solutions for Cryptography"
 layout: single
 classes:
   - wide
