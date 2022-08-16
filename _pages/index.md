@@ -20,7 +20,6 @@ salon1:
     url2: "/salon1/presentations/"
     btn_label2: "Presentations"
     btn_class2: "btn--info"
-
 ---
 
 {% capture notice-1 %}
