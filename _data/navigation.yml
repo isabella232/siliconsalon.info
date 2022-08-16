@@ -3,5 +3,5 @@ main:
     url: /about/
   - title: "Discussions"
     url: "https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/categories/silicon-salon"
-  - title: "Presentations"
-    url: /presentations/
+  - title: "Silicon Salon 1"
+    url: /siliconsalon1/
