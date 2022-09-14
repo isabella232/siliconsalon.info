@@ -31,10 +31,11 @@ The first two-thirds of the Silicon Salon featured [presentations](/salon2/prese
 
 <figure class="third">
 	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/bunnie-studios-presentation.png"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/cramium-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/foundation-presentation.jpg"></a>
 	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/proxy-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/libresoc-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/crossbar-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/tropicsquare-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/vls-presentation.jpg"></a>
 </figure>
 
 ### Bunnie Studios Presentation Key Quotes
