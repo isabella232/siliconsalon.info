@@ -77,6 +77,17 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 "[Our] pairing secret is used to prove the secure element and MCU are a matched set. This is to prevent an attacker from swapping out device components."
 {: .notice--info}
 
+### Validated Lightning Signer Presentation Key Quotes
+
+"The basic concept of VLS is to not have the private keys or other secrets in the online node itself."
+{: .notice--info}
+
+"Originally we were thinking about using the VLS software inside a hardware security module to secure an enterprise-scale lightning node. As we went on, we discovered other cases where inexpensive consumer devices could provide custody to end users and this was important for different reasons."
+{: .notice--info}
+
+"Our wish list items that would significantly improve security include tamper-proof hardware which can protect us when the physical security of the device is compromised."
+{: .notice--info}
+
 ## Additional Discussions
 
 Discussions were held on several major topics:
