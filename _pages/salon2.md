@@ -57,11 +57,34 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 
 ### Proxy Labs Presentation Key Quotes
 
+"One of the attack vectors we have seen is that if you can't compormise the code or inject code running on the MCU for example, you can often take the MCU off and introduce an MCU that already has compromised code on it."
+{: .notice--info}
+
+"A lot of the MCU code verification relies on code running on the MCU itself and it's subject to silicon vendor bugs, glitch attacks, etc."
+{: .notice--info}
+
+"We're interested in authenticity check using WebBluetooth and WebNFC so that you don't have to rely on an app you can't inspect."
+{: .notice--info}
+
+### Foundation Devices Presentation Key Quotes
+
+"We didn't want to rely on factory provisioning tools from other vendors. So the first thing we do is load a test bootloader onto the MCU and we run through a series of hardware tests to make sure everything was assembled properly, like testing the screen controller, the secure element, making sure we can communicate with everything."
+{: .notice--info}
+
+"One of the important security steps is that we have a supply chain secret that is copied to Passport."
+{: .notice--info}
+
+"[Our] pairing secret is used to prove the secure element and MCU are a matched set. This is to prevent an attacker from swapping out device components."
+{: .notice--info}
+
 ## Additional Discussions
 
 Discussions were held on several major topics:
 
 ### Supply Chain
+
+"There's a lot of details in the supply chain and its complexity. Where are the components? What about proof of custody along the way to the factory? Who is on the factory floor at the factory?"
+{: .notice--info}
 
 "We try to track all of the pieces we're putting into the software supply chain so that we know at least how big the attack surface is. Realistically these tools are so complicated that I can't say with any confidence that we know there are no backdoors in any given tool, but at least we have enumerated the tools and the problems we could have with them."
 {: .notice--info}
