@@ -30,12 +30,12 @@ The second Silicon Salon, on September 14, 2022, again brought together principa
 The first two-thirds of the Silicon Salon featured [presentations](/salon2/presentations/) by experts in the silicon, hardware, software, and cryptography fields, including Bunnie Studios, Foundation Devices, Proxy, Tropic Square, and the team behind Validated Lightning Signer. There were also question & answer sessions after each presentation.
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/silicon-salon-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/bunnie-studios-presentation.png"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/cramium-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/foundation-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/proxy-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/salon2/presentations/vls-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation.png"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation.jpg"></a>
 </figure>
 
 ### Bunnie Studios Presentation Key Quotes
