@@ -27,11 +27,11 @@ The first Silicon Salon, on June 1, 2022, drew together a variety of principals 
 The first hour of the Silicon Salon featured [presentations](/salon1/presentations/) by experts in the silicon, hardware, software, and cryptography fields, including Christopher Allen, Bryan Bishop, CrossBar, Proxy, Tropic Square, and Libre-SOC.
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/siliconsalon1/presentations/"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/siliconsalon1/presentations/"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/siliconsalon1/presentations/"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/siliconsalon1/presentations/"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/siliconsalon1/presentations/"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
 ### CrossBar Key Quotes
