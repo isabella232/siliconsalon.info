@@ -107,6 +107,9 @@ Discussions were held on our planned three major topics:
 "Some of the struggle is how to create logic that deals with any physical attack. Byzantine Fault Tolerance tries to do that by saying everything is unreliable and let's address it with logic. But there is an importance to physical security on the MCU itself.
 {: .notice--info}
 
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/90){: .btn .btn--info}
+{: .text-right}
+
 ### Firmware
 
 "We're attaching to an SE chip that wasn't really designed for our use case. I would hope that we can have an SE from Tropic Square or Crossbar that is designed for the use cases that we're interested in and not ones that the payment card industry is interested in."
@@ -114,6 +117,9 @@ Discussions were held on our planned three major topics:
 
 "When you deal with Apple, you do what they tell you to do. You don't get a lot of leverage. They decide how their platform shall be used and they decide all the bits if you want to participate in it, and that applies to their payment platform as well. But on the other hand, they can dictate silicon features that go into future chips and some of that does end up trickling down and being available to the rest of us."
 {: .notice--info}
+
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/90){: .btn .btn--info}
+{: .text-right}
 
 ### Supply Chain
 
@@ -129,8 +135,7 @@ Discussions were held on our planned three major topics:
 "Having a cryptographically strong unique ID is better than a scary plaintext serial number. The flip side of this is that securing your supply chain secret is hard because you need it on the manufacturing line, and how do you protect that?"
 {: .notice--info}
 
-
-[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/93){: .btn .btn--info}
+[Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/90){: .btn .btn--info}
 {: .text-right}
 
 
