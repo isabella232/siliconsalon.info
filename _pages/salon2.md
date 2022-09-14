@@ -16,6 +16,9 @@ header:
 
 The second Silicon Salon, on September 14, 2022, again brought together principals from the crypto-wallet and semiconductor communities. This time, our focus was on secure boot, supply-chain security, and firmware upgrades. We were seeking the answers to questions such as: How do we boot securely? How do we ensure firmware is secure? How do we update firmware? and How do we ensure the supply chain isn't at risk? Silicon cryptography is about more than just the design of a chip!
 
+"This is the second Silicon Salon and we have dropped to the foundations."
+{: .notice--info}
+
 "A lot of this is about conversations between people who care."
 {: .notice--info}
 
@@ -90,7 +93,26 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 
 ## Additional Discussions
 
-Discussions were held on several major topics:
+Discussions were held on our planned three major topics:
+
+### Boot
+
+"What should the bootloader do? Should it be very minimum code that only opens up the communication port and OEM will take care of everything else? Should it do all the crypto engines at the API level, and let the OEM do more of the I/Os, displays, and customizations? Or should it be something in between?"
+{: .notice--info}
+
+"Trusted and untrusted implies a binary way of thinking about the world which may not be how it really works."
+{: .notice--info}
+
+"Some of the struggle is how to create logic that deals with any physical attack. Byzantine Fault Tolerance tries to do that by saying everything is unreliable and let's address it with logic. But there is an importance to physical security on the MCU itself.
+{: .notice--info}
+
+### Firmware
+
+"We're attaching to an SE chip that wasn't really designed for our use case. I would hope that we can have an SE from Tropic Square or Crossbar that is designed for the use cases that we're interested in and not ones that the payment card industry is interested in."
+{: .notice--info}
+
+"When you deal with Apple, you do what they tell you to do. You don't get a lot of leverage. They decide how their platform shall be used and they decide all the bits if you want to participate in it, and that applies to their payment platform as well. But on the other hand, they can dictate silicon features that go into future chips and some of that does end up trickling down and being available to the rest of us."
+{: .notice--info}
 
 ### Supply Chain
 
@@ -100,13 +122,16 @@ Discussions were held on several major topics:
 "We try to track all of the pieces we're putting into the software supply chain so that we know at least how big the attack surface is. Realistically these tools are so complicated that I can't say with any confidence that we know there are no backdoors in any given tool, but at least we have enumerated the tools and the problems we could have with them."
 {: .notice--info}
 
+"One thing brought up as a question is whether there's any standard way for doing supply chain authentication, rather than everyone doing their own."
+{: .notice--info}
+
+"Having a cryptographically strong unique ID is better than a scary plaintext serial number. The flip side of this is that securing your supply chain secret is hard because you need it on the manufacturing line, and how do you protect that?"
+{: .notice--info}
+
+
 [Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/93){: .btn .btn--info}
 {: .text-right}
 
-### Bootloader
-
-"What should the bootloader do? Should it be very minimum code that only opens up the communication port and OEM will take care of everything else? Should it do all the crypto engines at the API level, and let the OEM do more of the I/Os, displays, and customizations? Or should it be something in between?"
-{: .notice--info}
 
 ## Participants
 
