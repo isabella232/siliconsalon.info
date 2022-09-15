@@ -26,6 +26,9 @@ presentation_2:
     url: "/assets/silicon-salon-2/presentations/bunnie-studios-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
+    url2: "https://diyhpl.us/wiki/transcripts/silicon-salon/precursor/"
+    btn_label2: "Read Transcript"
+    btn_class2: "btn--success"
 presentation_3:
   - image_path: /assets/silicon-salon-2/presentations/cramium-presentation.jpg
     alt: "Cramium Presentation"
@@ -34,6 +37,9 @@ presentation_3:
     url: "/assets/silicon-salon-2/presentations/cramium-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
+    url2: "https://diyhpl.us/wiki/transcripts/silicon-salon/cramium-bootloader/"
+    btn_label2: "Read Transcript"
+    btn_class2: "btn--success"
 presentation_4:
   - image_path: /assets/silicon-salon-2/presentations/foundation-presentation.jpg
     alt: "Foundation Presentation"
@@ -42,6 +48,9 @@ presentation_4:
     url: "/assets/silicon-salon-2/presentations/foundation-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
+    url2: "https://diyhpl.us/wiki/transcripts/silicon-salon/foundation-devices/"
+    btn_label2: "Read Transcript"
+    btn_class2: "btn--success"    
 presentation_5:
   - image_path: /assets/silicon-salon-2/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
@@ -50,6 +59,9 @@ presentation_5:
     url: "/assets/silicon-salon-2/presentations/proxy-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
+    url2: "https://diyhpl.us/wiki/transcripts/silicon-salon/proxy-bootloader/"
+    btn_label2: "Read Transcript"
+    btn_class2: "btn--success"    
 presentation_6:
   - image_path: /assets/silicon-salon-2/presentations/vls-presentation.jpg
     alt: "VLS Presentation"
@@ -58,6 +70,9 @@ presentation_6:
     url: "/assets/silicon-salon-2/presentations/vls-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
+    url2: "https://diyhpl.us/wiki/transcripts/silicon-salon/validating-lightning-signer/"
+    btn_label2: "Read Transcript"
+    btn_class2: "btn--success"
 ---
 
 {% include feature_row id="presentation_1" type="left" %}
