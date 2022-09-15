@@ -144,7 +144,7 @@ Discussions were held on our planned three major topics:
 
 Thanks to our participants, including:
 
-![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/silicon-salon-2/images/silicon-salon-sponsors.png)
+![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/silicon-salon-2/images/silicon-salon2-sponsors.png)
 
 * **Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
 * **Facilitators:** Christopher Allen, Bryan Bishop
