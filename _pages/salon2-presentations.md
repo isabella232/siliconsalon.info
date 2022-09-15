@@ -1,6 +1,7 @@
 ---
 permalink: /salon2/presentations/
 title: "Silicon Salon II: Presentations"
+subtitle: "Secure Boot, Supply-Chain Security, and Firmware Upgrades"
 layout: single
 classes:
   - wide
