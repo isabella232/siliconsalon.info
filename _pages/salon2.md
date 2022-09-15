@@ -138,19 +138,16 @@ Discussions were held on our planned three major topics:
 [Discuss Topic](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/90){: .btn .btn--info}
 {: .text-right}
 
-
 ## Participants
-
-[redo]
 
 Thanks to our participants, including:
 
-![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/silicon-salon-1/images/silicon-salon-sponsors.png)
+![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/silicon-salon-2/images/silicon-salon-sponsors.png)
 
 * **Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
 * **Facilitators:** Christopher Allen, Bryan Bishop
-* **Presenters:** [CrossBar](https://www.crossbar-inc.com/), [Proxy](https://www.proxy.com/), [Tropic Square](https://tropicsquare.com/), [Libre-SOC](https://libre-soc.org/)
-* **Sustaining Sponsors:** [Bitmark](https://bitmark.com/), [Blockchainbird](https://github.com/blockchainbird/bird), [CrossBar](https://www.crossbar-inc.com/), [Foundation Devices](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [Unchained Capital](https://unchained.com/)
+* **Presenters:** [Bunnie Studios](https://www.bunniestudios.com/), [Cramium Labrs](https://www.crossbar-inc.com/](https://www.cramiumlabs.com/), [Foundation](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [The VLS Team](https://gitlab.com/lightning-signer/validating-lightning-signer)
+* **Sustaining Sponsors:** [Bitmark](https://bitmark.com/), [Blockchainbird](https://github.com/blockchainbird/bird), [Chia](https://www.chia.net/), [CrossBar](https://www.crossbar-inc.com/), [Foundation](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [Unchained Capital](https://unchained.com/)
 
 ## Chatham House Rules Apply
 
