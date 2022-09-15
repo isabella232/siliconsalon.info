@@ -13,7 +13,7 @@ presentation_1:
   - image_path: /assets/silicon-salon-2/presentations/silicon-salon-presentation.jpg
     alt: "Silicon Salon Overview"
     title: "Silicon Salon Overview"
-    excerpt: 'The Blockchain Commons presentation introduced the day and our three major topics.'
+    excerpt: 'The Blockchain Commons presentation led off the day and our three major topics.'
     url: "/assets/silicon-salon-2/presentations/silicon-salon-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
