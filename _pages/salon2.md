@@ -63,7 +63,7 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 
 ### Proxy Labs Presentation Key Quotes
 
-"One of the attack vectors we have seen is that if you can't compormise the code or inject code running on the MCU for example, you can often take the MCU off and introduce an MCU that already has compromised code on it."
+"One of the attack vectors we have seen is that if you can't compromise the code or inject code running on the MCU for example, you can often take the MCU off and introduce an MCU that already has compromised code on it."
 {: .notice--info}
 
 "A lot of the MCU code verification relies on code running on the MCU itself and it's subject to silicon vendor bugs, glitch attacks, etc."
