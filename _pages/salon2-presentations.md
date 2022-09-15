@@ -18,7 +18,7 @@ presentation_1:
     btn_label: "View Slides"
     btn_class: "btn--success"
 presentation_2:
-  - image_path: /assets/silicon-salon-2/presentations/bunnie-studios-presentation.jpg
+  - image_path: /assets/silicon-salon-2/presentations/bunnie-studios-presentation.png
     alt: "Bunnie Studios Presentation"
     title: "Bunnie Studios Presentation"
     excerpt: 'Bunnie introduced Precursor, an open-source platform for developing secure mobile apps'
