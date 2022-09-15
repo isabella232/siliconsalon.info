@@ -14,7 +14,7 @@ header:
 
 ## Overview
 
-The second Silicon Salon, on September 14, 2022, again brought together principals from the crypto-wallet and semiconductor communities. This time, our focus was on secure boot, supply-chain security, and firmware upgrades. We were seeking the answers to questions such as: How do we boot securely? How do we ensure firmware is secure? How do we update firmware? and How do we ensure the supply chain isn't at risk? Silicon cryptography is about more than just the design of a chip!
+The second Silicon Salon, on September 14, 2022, again brought together principals from the crypto-wallet and semiconductor communities. This time, our focus was on **Secure Boot, Supply-Chain Security, and Firmware Upgrades**. We were seeking the answers to questions such as: How do we boot securely? How do we ensure firmware is secure? How do we update firmware? and How do we ensure the supply chain isn't at risk? Silicon cryptography is about more than just the design of a chip!
 
 "This is the second Silicon Salon and we have dropped to the foundations."
 {: .notice--info}
