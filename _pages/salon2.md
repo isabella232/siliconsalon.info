@@ -148,7 +148,7 @@ Thanks to our participants, including:
 
 * **Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
 * **Facilitators:** Christopher Allen, Bryan Bishop
-* **Presenters:** [Bunnie Studios](https://www.bunniestudios.com/), [Cramium Labrs](https://www.crossbar-inc.com/](https://www.cramiumlabs.com/), [Foundation](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [The VLS Team](https://gitlab.com/lightning-signer/validating-lightning-signer)
+* **Presenters:** [Bunnie Studios](https://www.bunniestudios.com/), [Cramium Labs](https://www.cramiumlabs.com/), [Foundation](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [The VLS Team](https://gitlab.com/lightning-signer/validating-lightning-signer)
 * **Sustaining Sponsors:** [Bitmark](https://bitmark.com/), [Blockchainbird](https://github.com/blockchainbird/bird), [Chia](https://www.chia.net/), [CrossBar](https://www.crossbar-inc.com/), [Foundation](https://foundationdevices.com/), [Proxy](https://www.proxy.com/), [Unchained Capital](https://unchained.com/)
 
 ## Chatham House Rules Apply
