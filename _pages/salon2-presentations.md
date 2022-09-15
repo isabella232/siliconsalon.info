@@ -20,7 +20,7 @@ presentation_2:
   - image_path: /assets/silicon-salon-2/presentations/bunnie-studios-presentation.jpg
     alt: "Bunnie Studios Presentation"
     title: "Bunnie Studios Presentation"
-    excerpt: 'Bunnie introduced Precursor, an open-source platform for developing secure mobile apps
+    excerpt: 'Bunnie introduced Precursor, an open-source platform for developing secure mobile apps'
     url2: "/assets/silicon-salon-2/presentations/bunnie-studios-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
