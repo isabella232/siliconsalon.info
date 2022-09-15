@@ -1,6 +1,7 @@
 ---
 permalink: /salon2/
 title: "Silicon Salon II: September 14, 2022"
+subtitle: "Secure Boot, Supply-Chain Security, and Firmware Upgrades"
 layout: single
 classes:
   - wide
