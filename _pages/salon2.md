@@ -58,6 +58,7 @@ _Lifecycle Progression:_ "The way we're thinking right now is only one-way lifec
 {: .notice--info}
 
 _Full-feature Software:_ "The other option is to have full-feature software where everything here, like the cryptographic algorithms, are loaded into the chip bootloader. All the crypto functions get loaded during manufacturing."
+{: .notice--info}
 
 ### Proxy Labs Presentation Key Quotes
 
