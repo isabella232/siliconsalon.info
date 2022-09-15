@@ -38,7 +38,7 @@ presentation_4:
     alt: "Foundation Presentation"
     title: "Foundation Presentation"
     excerpt: 'Foundation outlined the Passport bootloader, firmware update process, and supply-chain activation process.'
-    url: "/assets/silicon-salon-1/presentations/foundation-presentation.pdf"
+    url: "/assets/silicon-salon-2/presentations/foundation-presentation.pdf"
     btn_label: "View Slides"
     btn_class: "btn--success"
 presentation_5:
