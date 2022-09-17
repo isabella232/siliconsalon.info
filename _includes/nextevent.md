@@ -1,1 +1,1 @@
-**The Second Salon is concluded!** Read all about it on our [Silicon Salon 2 pages](https://www.siliconsalon.info/salon2/).
+**The Second Salon is concluded!** Read all about it on our [Silicon Salon 2 pages](https://www.siliconsalon.info/salon2/). We are also planning for [Silicon Salon 3](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/96). Let us know your thoughts!
