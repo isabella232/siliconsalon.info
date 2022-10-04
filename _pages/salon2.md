@@ -123,7 +123,17 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 "[Our] pairing secret is used to prove the secure element and MCU are a matched set. This is to prevent an attacker from swapping out device components."
 {: .notice--info}
 
-### Validated Lightning Signer Presentation Key Quotes
+## Validated Lightning Signer Presentation 
+
+### Key Slides
+
+<figure class="third">
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation-3.jpg"></a>
+</figure>
+
+### Key Quotes
 
 "The basic concept of VLS is to not have the private keys or other secrets in the online node itself."
 {: .notice--info}
