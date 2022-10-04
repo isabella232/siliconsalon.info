@@ -92,7 +92,17 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 "We're interested in authenticity check using WebBluetooth and WebNFC so that you don't have to rely on an app you can't inspect."
 {: .notice--info}
 
-### Foundation Devices Presentation Key Quotes
+## Foundation Devices Presentation 
+
+### Key Slides
+
+<figure class="third">
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-3.jpg"></a>
+</figure>
+
+### Key Quotes
 
 "We didn't want to rely on factory provisioning tools from other vendors. So the first thing we do is load a test bootloader onto the MCU and we run through a series of hardware tests to make sure everything was assembled properly, like testing the screen controller, the secure element, making sure we can communicate with everything."
 {: .notice--info}
