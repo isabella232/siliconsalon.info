@@ -60,7 +60,17 @@ The first two-thirds of the Silicon Salon featured [presentations](/salon2/prese
 "Our threat model is different. We don't trust our manufacturer. We don't trust the supply chain or anyone else's. Our goal is to empower user to control and protect their own hardware."
 {: .notice--info}
 
-### Cramium Labs Presentation Key Quotes
+## Cramium Labs Presentation 
+
+### Key Slides
+
+<figure class="third">
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-3.jpg"></a>
+</figure>
+
+### Key Quotes
 
 _Minimalism View:_ "Very small amounts of code. This code is just for loading the OEM bootloader once the OEM bootloader is loaded then, you don' t even use that. So there's absolutely no trust in the software that is loaded into this."
 {: .notice--info}
