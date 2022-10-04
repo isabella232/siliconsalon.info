@@ -46,6 +46,7 @@ The first two-thirds of the Silicon Salon featured [presentations](/salon2/prese
 <figure class="third">
 	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-1.jpg"></a>
 	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
