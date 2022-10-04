@@ -39,7 +39,16 @@ The first two-thirds of the Silicon Salon featured [presentations](/salon2/prese
 	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation.jpg"></a>
 </figure>
 
-### Bunnie Studios Presentation Key Quotes
+## Bunnie Studios Presentation
+
+### Key Slides
+
+<figure class="third">
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-2.jpg"></a>
+</figure>
+
+### Key Quotes
 
 "Why are we doing a device and not just a  chip? If you want to protect the end-user secrets, then you have to think about the screens and keyboards being logged so this boils down to a secure I/O problem."
 {: .notice--info}
