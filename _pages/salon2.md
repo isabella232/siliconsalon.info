@@ -81,7 +81,17 @@ _Lifecycle Progression:_ "The way we're thinking right now is only one-way lifec
 _Full-feature Software:_ "The other option is to have full-feature software where everything here, like the cryptographic algorithms, are loaded into the chip bootloader. All the crypto functions get loaded during manufacturing."
 {: .notice--info}
 
-### Proxy Labs Presentation Key Quotes
+## Proxy Labs Presentation 
+
+### Key Slides
+
+<figure class="third">
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-3.jpg"></a>
+</figure>
+
+### Key Quotes
 
 "One of the attack vectors we have seen is that if you can't compromise the code or inject code running on the MCU for example, you can often take the MCU off and introduce an MCU that already has compromised code on it."
 {: .notice--info}
