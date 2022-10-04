@@ -21,6 +21,9 @@ presentation_1:
     url2: "/assets/silicon-salon-2/presentations/silicon-salon-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://www.siliconsalon.info/salon2/intro-transcript/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_2:
   - image_path: /assets/silicon-salon-2/presentations/bunnie-studios-presentation.png
     alt: "Bunnie Studios Presentation"
