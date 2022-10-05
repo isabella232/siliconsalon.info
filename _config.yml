@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Blockchain Commons"
   avatar : "/assets/images/bc-logo.png"
-#  bio    : "A Blockchain Commons event."
+  bio    : "Blockchain Commons focuses on building firm foundation for self-sovereign assets on the internet. Silicon Salon does so by bringing together semiconductor & wallet makers to create the next generation of crypto-silicon."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
