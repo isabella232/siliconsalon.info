@@ -144,9 +144,7 @@ through some of the topics brought up at Silicon Salon 3.
 
 ## Participants
 
-Thanks to our participants, including:
-
-![Sponsor List]({{ site.url }}{{ site.baseurl }}/assets/silicon-salon-3/images/silicon-salon3-sponsors.png)
+Thanks to our presenters and other participants!
 
 * **Host:** [Blockchain Commons](https://www.blockchaincommons.com/)
 * **Facilitators:** Christopher Allen, Bryan Bishop
