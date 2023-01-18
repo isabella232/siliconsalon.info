@@ -44,7 +44,7 @@ presentation_3:
     btn_label2: "View Slides"
     btn_class2: "btn--success"
 presentation_4:
-  - image_path: /assets/silicon-salon-3/presentations/foundation-presentation.jpg
+  - image_path: /assets/silicon-salon-3/presentations/sreedhar-presentation.jpg
     alt: "Kavya Sreedhar Presentation"
     title: "Kavya Sreedhar Presentation"
     excerpt: 'Sreedhar presented on "A Fast Large-Integer Extended GCD Algorithm" (and hardware design).'
