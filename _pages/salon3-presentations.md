@@ -33,7 +33,7 @@ presentation_2:
     btn_label2: "View Slides"
     btn_class2: "btn--success"
 presentation_3:
-  - image_path: /assets/silicon-salon-3/presentations/bunnie-studios-presentation.png
+  - image_path: /assets/silicon-salon-3/presentations/bunnie-studios-presentation.jpg
     alt: "Bunnie Studios Presentation"
     title: "Bunnie Studios Presentation"
     excerpt: 'Bunnie talked about what makes a semiconductor more or less open.'
@@ -51,7 +51,7 @@ presentation_4:
     url: "https://www.youtube.com/watch?v=ZCZ_dwui-X0"
     btn_label: "Watch Video"
     btn_class: "btn--info"
-    url2: "/assets/silicon-salon-3/presentations/foundation-presentation.pdf"
+    url2: "/assets/silicon-salon-3/presentations/sreedhar-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
 ---
