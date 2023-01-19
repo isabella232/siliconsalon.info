@@ -57,6 +57,8 @@ The object of the Silicon Salons is to bring together these two groups: wallet d
 
 ---
 
+{% include feature_row id="salon3" type="left" %}
+
 {% include feature_row id="salon2" type="left" %}
 
 {% include feature_row id="salon1" type="left" %}
