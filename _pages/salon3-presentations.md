@@ -15,7 +15,7 @@ presentation_1:
     alt: "Silicon Salon Overview"
     title: "Silicon Salon Overview"
     excerpt: 'The Blockchain Commons presentation as usual led off the day.'
-    url: "https://www.youtube.com/watch?v=9j7e0XnTy9o"
+    url: "https://www.youtube.com/watch?v=_0pSb2Wq75Y"
     btn_label: "Watch Intro"
     btn_class: "btn--info"
     url2: "/assets/silicon-salon-3/presentations/silicon-salon-presentation.pdf"
@@ -26,7 +26,7 @@ presentation_2:
     alt: "Cramium Presentation"
     title: "Cramium Presentation"
     excerpt: 'Cramium focused on Silicon & MPC.'
-    url: "https://www.youtube.com/watch?v=Np7Mw-jf0WY"
+    url: "https://www.youtube.com/watch?v=r4PxckECvpo"
     btn_label: "Watch Video"
     btn_class: "btn--info"
     url2: "/assets/silicon-salon-3/presentations/cramium-presentation.pdf"
@@ -37,7 +37,7 @@ presentation_3:
     alt: "Bunnie Studios Presentation"
     title: "Bunnie Studios Presentation"
     excerpt: 'Bunnie talked about what makes a semiconductor more or less open.'
-    url: "https://www.youtube.com/watch?v=IlM4mFv2nM4"
+    url: "https://www.youtube.com/watch?v=JMOWU6pFflw"
     btn_label: "Watch Video"
     btn_class: "btn--info"
     url2: "/assets/silicon-salon-3/presentations/bunnie-studios-presentation.pdf"
@@ -48,7 +48,7 @@ presentation_4:
     alt: "Kavya Sreedhar Presentation"
     title: "Kavya Sreedhar Presentation"
     excerpt: 'Sreedhar presented on "A Fast Large-Integer Extended GCD Algorithm" (and hardware design).'
-    url: "https://www.youtube.com/watch?v=ZCZ_dwui-X0"
+    url: "https://www.youtube.com/watch?v=liMA-8zmu1E"
     btn_label: "Watch Video"
     btn_class: "btn--info"
     url2: "/assets/silicon-salon-3/presentations/sreedhar-presentation.pdf"
