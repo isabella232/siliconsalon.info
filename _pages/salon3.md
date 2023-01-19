@@ -47,6 +47,8 @@ question & answer sessions after each presentation.
 
 ## Cramium Labs Presentation 
 
+View [the presentation](https://www.youtube.com/watch?v=r4PxckECvpo).
+
 ### Key Slides
 
 <figure class="third">
@@ -76,6 +78,8 @@ we want to take an open development approach."
 {: .notice--info}
 
 ## Bunnie Studios Presentation
+
+View [the presentation](https://www.youtube.com/watch?v=JMOWU6pFflw).
 
 ### Key Slides
 
@@ -116,6 +120,8 @@ like fatality rates in automobile accidents."
 {: .notice--info}
 
 ##  Kavya Sreedhar Presentation
+
+View [the presentation](https://www.youtube.com/watch?v=liMA-8zmu1E).
 
 ### Key Slides
 
