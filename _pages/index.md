@@ -11,6 +11,17 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
 salon2:
+  - image_path: /assets/silicon-salon-3/presentations/silicon-salon-presentation.jpg
+    alt: "Silicon Salon 3"
+    title: "Silicon Salon 3"
+    excerpt: '**January 18, 2023.** Our third salon discussed new silicon-logic-based cryptographic functionality & leveraging opportunities for semiconductor acceleration, such as Multi-Party Computation (MPC) and ZK-proofs.'
+    url: "/salon3/"
+    btn_label: "Overview"
+    btn_class: "btn--success"
+    url2: "/salon3/presentations/"
+    btn_label2: "Presentations"
+    btn_class2: "btn--info"
+salon2:
   - image_path: /assets/silicon-salon-2/presentations/silicon-salon-presentation.jpg
     alt: "Silicon Salon 2"
     title: "Silicon Salon 2"
