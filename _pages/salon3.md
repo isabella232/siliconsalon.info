@@ -145,7 +145,7 @@ areas, like target platform, algorithm, and application requirements."
 
 ## Additional Discussions
 
-An hour's worth of additional discussion continuuued to iterate
+An hour's worth of additional discussion continued to iterate
 through some of the topics brought up at Silicon Salon 3.
 
 ### Key Quotes: Hardware Challenges
@@ -156,7 +156,7 @@ through some of the topics brought up at Silicon Salon 3.
 "We constantly struggle with a difference in mentality and constraints between software versus chip business."
 {: .notice--info}
 
-### Key Quotes: Standards
+### Key Quotes: Hardware & Standards
 
 "There's a lot of competing standards with MPC. ... [There's a] strong need for standardizing."
 {: .notice--info}
@@ -182,6 +182,10 @@ through some of the topics brought up at Silicon Salon 3.
 
 "Thank you for listening to have what we have to save and sharing your knowledge with us."
 {: .notice--info}
+
+### Possible Future Discussions
+
+Suggestions for future Silicon Salons include supply chain, standardization, and hardware open development.
 
 ## Participants
 
