@@ -148,6 +148,20 @@ areas, like target platform, algorithm, and application requirements."
 An hour's worth of additional discussion continuuued to iterate
 through some of the topics brought up at Silicon Salon 3.
 
+### Key Quotes
+
+"There's a lot of competing standards with MPC. ... [There's a] strong need for standardizing."
+{: .notice--info}
+
+"Without having standardization, the answer is probably to implement as many things as you can."
+{: .notice--info}
+
+"We constantly struggle with a difference in mentality and constraints between software versus chip business."
+{: .notice--info}
+
+"This is ... really helpful to hear ideas that you're all thinking about or think might be useful."
+{: .notice--info}
+
 ## Participants
 
 Thanks to our presenters and other participants!
