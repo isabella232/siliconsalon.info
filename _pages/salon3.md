@@ -148,7 +148,15 @@ areas, like target platform, algorithm, and application requirements."
 An hour's worth of additional discussion continuuued to iterate
 through some of the topics brought up at Silicon Salon 3.
 
-### Key Quotes
+### Key Quotes: Hardware Challenges
+
+"There's huge barriers to getting an algorithm into a chip."
+{: .notice--info}
+
+"We constantly struggle with a difference in mentality and constraints between software versus chip business."
+{: .notice--info}
+
+### Key Quotes: Standards
 
 "There's a lot of competing standards with MPC. ... [There's a] strong need for standardizing."
 {: .notice--info}
@@ -156,10 +164,23 @@ through some of the topics brought up at Silicon Salon 3.
 "Without having standardization, the answer is probably to implement as many things as you can."
 {: .notice--info}
 
-"We constantly struggle with a difference in mentality and constraints between software versus chip business."
+### Key Quotes: Distributed Key Generation
+
+"Distributed Key Generation is one of the best answers out there. Rather than worrying about your entropy, you just collect as much entropy as you can from as many parties as you can and that is your key generation."
 {: .notice--info}
 
-"This is ... really helpful to hear ideas that you're all thinking about or think might be useful."
+"We're kind of moving the secrets to a new place, and the damage they can do is reduced on an individual loss basis, but it's still a secret that requires some level of care."
+{: .notice--info}
+
+### Key Quotes: Collaboration
+
+"We get to share a little bit about what we've been thinking about from the hardwaree perspective and importantly get to learn about what you all are thinking about from the cryptography application perspective, and that really informs what we're looking at next and how we can be helpful given our backgrounds.
+{: .notice--info}
+
+"This connection to being aware of what are the interesting problems and what's currently going on, that matters a lot!"
+{: .notice--info}
+
+"Thank you for listening to have what we have to save and sharing your knowledge with us."
 {: .notice--info}
 
 ## Participants
