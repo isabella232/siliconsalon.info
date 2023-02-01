@@ -143,7 +143,7 @@ _Goal:_
 areas, like target platform, algorithm, and application requirements."
 {: .notice--info}
 
-## Additional Discussions
+## Additional Discussions & Chat
 
 An hour's worth of additional discussion continued to iterate
 through some of the topics brought up at Silicon Salon 3.
@@ -154,6 +154,9 @@ through some of the topics brought up at Silicon Salon 3.
 {: .notice--info}
 
 "We constantly struggle with a difference in mentality and constraints between software versus chip business."
+{: .notice--info}
+
+"Sounds like we should just stick to doing security in heterogenous hardware using software."
 {: .notice--info}
 
 ### Key Quotes: Hardware & Standards
@@ -170,6 +173,9 @@ through some of the topics brought up at Silicon Salon 3.
 {: .notice--info}
 
 "We're kind of moving the secrets to a new place, and the damage they can do is reduced on an individual loss basis, but it's still a secret that requires some level of care."
+{: .notice--info}
+
+"I know of dozens of MPC protocols, with different assumptions and cryptographic primitives. IMHO the field needs a strong effort to standardize in order to identify which primitives should be implemented in silicon. There are just too many of them right now and many of them are grad-student-ware."
 {: .notice--info}
 
 ### Key Quotes: Collaboration
