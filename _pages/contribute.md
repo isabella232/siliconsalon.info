@@ -3,7 +3,7 @@ permalink: /contribute/
 title: "Call for Contributions"
 ---
 
-Silicon Salon 4 is planned for May 3, 2023. The main topics will be ????.
+Silicon Salon 4 is planned for May 3, 2023. Future Silicon Salons are tentatively scheduled for September 26 and October 25. 
 {: .notice--success}
 
 The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for January, April, July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. 
@@ -18,16 +18,15 @@ Here's some of our best presentations from the recent Silicon Salons:
   <b>Kavya Sreedhar on GCD:</b><a href="https://www.youtube.com/watch?v=liMA-8zmu1E"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation.jpg"></a>
 </figure>
 
-Please mail us at [team@blockchaincommons.com](mailto:team@blockchaincommons.com) and tell us about what you'd like to present. Your proposal should include:
+Become a part of the collaboration by proposing your own presentation for a future Silicon Salon, covering topics such as:
 
 * Cryptographic algorithms and protocols
-* Digital asset security and privacy
 * Semiconductor capabilities for cryptography
 * Digital wallet requirements and design
-* Blockchain security and scalability leveraging hardwared
-* Post-quantum cryptography in silicon
 * Cryptography in IoT and edge devices
-* 
+
+To propose a presentation, mail us at [team@blockchaincommons.com](mailto:team@blockchaincommons.com) and tell us:
+
 1. The title of the presentation.
 2. A summary of what your presentation will be about.
 3. A summary of how this topic focuses on semiconductor capabilities, wallet requirements, or other related topics.
@@ -36,4 +35,6 @@ Please mail us at [team@blockchaincommons.com](mailto:team@blockchaincommons.com
 
 Final presentations should be about five minutes long, supported by a slidedeck or some sort, which you will present in Zoom on the date of the salon.
 
-Specific salons will focus on specific topics. If you've got something to say about the topic above for the upcoming salon, we'd particularly love to have you present! (But even if your preferred topic is more varied, let us know: we might include it, or we might focus the _next_ salon on that discussion.)
+We encourage submissions from a wide range of perspectives and backgrounds, and welcome interdisciplinary approaches that bridge the gap between academia and industry. By participating in the Silicon Salon, you will have the opportunity to network with top professionals in the field, exchange ideas and insights, and make a lasting impact on the future of cryptography and digital assets.
+
+Join us in shaping the future of cryptography and digital assets at the Silicon Salon!
