@@ -3,10 +3,10 @@ permalink: /contribute/
 title: "Call for Contributions"
 ---
 
-Silicon Salon 4 is planned for May 3, 2023. Future Silicon Salons are tentatively scheduled for September 26 and October 25. Propose a presentation now!
+Silicon Salon 4 is planned for May 3, 2023. Future Silicon Salons are tentatively scheduled for July 26 and October 25. Propose a presentation now!
 {: .notice--success}
 
-The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for January, April, July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. 
+The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for January, May, July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. 
 
 _We want you_ to make a presentation about your unique experiences in the field, whether you're producing semiconductors with an eye toward cryptography support, working on digital-asset wallets, or researching and publishing about cryptographic capabilities. We want to highlight cutting-edge research, innovative technologies, and real-world applications that are shaping the future of silicon-based security architectures. 
 
