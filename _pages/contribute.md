@@ -3,7 +3,7 @@ permalink: /contribute/
 title: "Call for Contributions"
 ---
 
-Silicon Salon 4 is planned for May 3, 2023. Future Silicon Salons are tentatively scheduled for September 26 and October 25. 
+Silicon Salon 4 is planned for May 3, 2023. Future Silicon Salons are tentatively scheduled for September 26 and October 25. Propose a presentation now!
 {: .notice--success}
 
 The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for January, April, July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. 
@@ -13,12 +13,12 @@ _We want you_ to make a presentation about your unique experiences in the field,
 Here's some of our best presentations from the recent Silicon Salons:
 
 <figure class="third">
-  <b>Foundation on Bootloader:</b><a href="https://www.youtube.com/watch?v=ZCZ_dwui-X0"><img src="/assets/silicon-salon-2/presentations/foundation-presentation.jpg"></a>
-  <b>Cramium on Semiconductors:</b><a href="https://www.youtube.com/watch?v=r4PxckECvpo"><img src="/assets/silicon-salon-3/presentations/cramium-presentation.jpg"></a>
-  <b>Kavya Sreedhar on GCD:</b><a href="https://www.youtube.com/watch?v=liMA-8zmu1E"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=ZCZ_dwui-X0"><img src="/assets/silicon-salon-2/presentations/foundation-presentation.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=r4PxckECvpo"><img src="/assets/silicon-salon-3/presentations/cramium-presentation.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=liMA-8zmu1E"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation.jpg"></a>
 </figure>
 
-Become a part of the collaboration by proposing your own presentation for a future Silicon Salon, covering topics such as:
+Become a part of this collaboration by proposing your own presentation for a future Silicon Salon, covering topics such as:
 
 * Cryptographic algorithms and protocols
 * Semiconductor capabilities for cryptography
@@ -33,7 +33,7 @@ To propose a presentation, mail us at [team@blockchaincommons.com](mailto:team@b
 4. The name of the presenter(s). 
 5. A description of who they are and how they or their company have the expertise, capability, or reach to benefit the Silicon Salon conversation.
 
-Final presentations should be about five minutes long, supported by a slidedeck or some sort, which you will present in Zoom on the date of the salon.
+Final presentations should be about five minutes long, supported by a slidedeck, which you will present in Zoom on the date of the salon.
 
 We encourage submissions from a wide range of perspectives and backgrounds, and welcome interdisciplinary approaches that bridge the gap between academia and industry. By participating in the Silicon Salon, you will have the opportunity to network with top professionals in the field, exchange ideas and insights, and make a lasting impact on the future of cryptography and digital assets.
 
