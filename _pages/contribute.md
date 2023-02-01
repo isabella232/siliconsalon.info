@@ -6,13 +6,28 @@ title: "Call for Contributions"
 Silicon Salon 4 is planned for April ??, 2023. The main topics will be ????.
 {: .notice--success}
 
-The Silicon Salon is continuing on a quarterly bases, and should appear around January, April, July, and October of this year.
-These virtual salons are intended to bring together digital wallet developers, semiconductor manufacturers, and academics. The ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyone’s needs, advancing the entire cryptography industry. 
+The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for January, April, July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. 
 
-That only works if we have as many stakeholders as possible on hand to jointly discuss their requirements and their capabilities. So if you're producing semiconductors with an eye toward cryptography support, if you're working on digital-asset wallets, or if you're researching and publishing on cryptographic capabilities, we'd love to have you make a presentation at the next Silicon Salon.
+_We want you_ to make a presentation about your unique experiences in the field, whether you're producing semiconductors with an eye toward cryptography support, working on digital-asset wallets, or researching and publishing about cryptographic capabilities. We want to highlight cutting-edge research, innovative technologies, and real-world applications that are shaping the future of silicon-based security architectures. 
+
+Here's some of our best presentations from the recent Silicon Salons:
+
+<figure class="third">
+  <b>Foundation on Bootloader:</b><br><a href="https://www.youtube.com/watch?v=ZCZ_dwui-X0"><img src="/assets/silicon-salon-2/presentations/foundation-presentation.jpg"></a>
+  <b>Cramium on Semiconductors:</b><br><a href="https://www.youtube.com/watch?v=r4PxckECvpo"><img src="/assets/silicon-salon-3/presentations/cramium-presentation.jpg"></a>
+  <b>Kavya Sreedhar on GCD:</b><br><a href="https://www.youtube.com/watch?v=liMA-8zmu1E"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation.jpg"></a>
+</figure>
 
 Please mail us at [team@blockchaincommons.com](mailto:team@blockchaincommons.com) and tell us about what you'd like to present. Your proposal should include:
 
+* Cryptographic algorithms and protocols
+* Digital asset security and privacy
+* Semiconductor capabilities for cryptography
+* Digital wallet requirements and design
+* Blockchain security and scalability leveraging hardwared
+* Post-quantum cryptography in silicon
+* Cryptography in IoT and edge devices
+* 
 1. The title of the presentation.
 2. A summary of what your presentation will be about.
 3. A summary of how this topic focuses on semiconductor capabilities, wallet requirements, or other related topics.
