@@ -1,6 +1,8 @@
 ---
 permalink: /proposals/
 title: "Call for Proposals"
+classes:
+- wide
 redirect_from:
 - /contribute/
 ---
