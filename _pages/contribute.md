@@ -1,6 +1,8 @@
 ---
-permalink: /contribute/
-title: "Call for Contributions"
+permalink: /proposals/
+title: "Call for Proposals"
+redirect_from:
+- /contribute/
 ---
 
 Silicon Salon 4 is planned for May 3, 2023. Future Silicon Salons are tentatively scheduled for July 26 and October 25. Propose a presentation now!
