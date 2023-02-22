@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
-  og_image: /assets/silicon-salon-1/images/silicon-salon1.jpg
+  og_image: /assets/silicon-salon-1/images/silicon-salon.jpg
 ---
 
 ## Overview
