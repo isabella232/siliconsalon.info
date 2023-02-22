@@ -9,6 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
+  og_image: /assets/silicon-salon-2/images/silicon-salon2.jpg
 ---
 
 Thank you everyone for joining us this morning. This is our second Silicon Salon, this time on the topic of supply chain security, firmware and boot and those associated topics. This is a collaborative session. If you want to view the slides directly, there is a URL for them which I will put in the chatroom. There also is collaborative notes.
