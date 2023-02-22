@@ -10,6 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
+  og_image: /assets/silicon-salon-2/images/silicon-salon2.jpg
 presentation_1:
   - image_path: /assets/silicon-salon-3/presentations/silicon-salon-presentation.jpg
     alt: "Silicon Salon Overview"
