@@ -9,10 +9,21 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/silicon-salon-bare.jpg
+salon_4:
+  - image_path: /assets/silicon-salon-4/images/silicon-salon4.jpg
+    alt: "Silicon Salon 4"
+    title: "Silicon Salon 4"
+    excerpt: 'The fourth Silicon Salon is scheduled for May 3, 2023.'
+    url: "https://www.eventbrite.com/e/silicon-salon-4-tickets-558196208887"
+    btn_label: "Tickets"
+    btn_class: "btn--info"
+    url2: "/proposals/"
+    btn_label2: "Call for Proposals"
+    btn_class2: "btn--success"
 salon_3:
   - image_path: /assets/silicon-salon-3/images/silicon-salon3.jpg
-    alt: "Silicon Salon 1"
-    title: "Silicon Salon 1"
+    alt: "Silicon Salon 3"
+    title: "Silicon Salon 3"
     excerpt: 'The third Silicon Salon explored new silicon-logic-based cryptographic functionality including MPC.'
     url: "/salon3"
     btn_label: "Overview"
