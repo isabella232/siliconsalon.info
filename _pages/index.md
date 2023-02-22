@@ -22,6 +22,6 @@ header:
 
 The object of the Silicon Salons is to bring together these two groups: wallet developers and semiconductor manufacturers. By working together, we can ensure that the first generation of cryptographic semiconductors meets everyone's needs, advancing the entire cryptography industry.
 
-To become involved with Silicon Salon, ***sign up for the newest event***, [***review our events archive***](/salons/), or [***propose a presentation***](/proposals/).
+To become involved with Silicon Salon, [***sign up for the newest event***](https://www.eventbrite.com/o/blockchain-commons-51836099383), [***review our events archive***](/salons/), or [***propose a presentation***](/proposals/).
 
 _Silicon background image courtesy of  [Vecteezy](https://www.vecteezy.com/vector-art/344822-printed-circuit-board-vector-illustration)_.
