@@ -1,6 +1,6 @@
 ---
 permalink: /salons/
-title: "Silicon Salon: Past Events"
+title: "Silicon Salon: Events Archive"
 layout: single
 classes:
   - wide
