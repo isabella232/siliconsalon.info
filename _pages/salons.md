@@ -55,6 +55,8 @@ salon_1:
     btn_class2: "btn--success"
 ---
 
+{% include feature_row id="salon_4" type="left" %}
+
 {% include feature_row id="salon_3" type="left" %}
 
 {% include feature_row id="salon_2" type="left" %}
