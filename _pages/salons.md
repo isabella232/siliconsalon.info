@@ -15,8 +15,11 @@ salon_1:
     title: "Silicon Salon 1"
     excerpt: 'The first Silicon Salon overviewed the topic, with presentations from CrossBar, Libre-SOC, Proxy, and Tropic Square.'
     url: "/salon1"
-    btn_label: "Silicon Salon 1"
+    btn_label: "Overview"
     btn_class: "btn--info"
+    url2: "/salon1/presentations"
+    btn_label2: "Presentations"
+    btn_class2: "btn--success"
 ---
 
 {% include feature_row id="salon_1" type="left" %}
