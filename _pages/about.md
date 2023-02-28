@@ -21,4 +21,4 @@ _Read more about Blockchain Commons’ [vision & objectives](https://www.blockch
 
 The Silicon Salon unites semiconductor manufacturers, crypto-wallet makers, and others to discuss semiconductor manufacture for cryptography. The first Silicon Salon occurred on June 1, 2022, the second on September 14, 2022.
 
-_Sign up for the [Silicon Salon announce list](/subscribe/)._
+_Sign up for the [Silicon Salon announcement list](/subscribe/)._
