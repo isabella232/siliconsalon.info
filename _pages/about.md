@@ -15,8 +15,10 @@ To enable people to control their own digital destiny and to maintain their huma
 
 Blockchain Commons is proudly a “not-for-profit” social benefit corporation, domiciled in Wyoming but operating world-wide. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away.
 
-_Read more about Blockchain Commons’ [vision & objectives](https://www.blockchaincommons.com/vision.html)_.
+_Read more about Blockchain Commons’ [vision & objectives](https://www.blockchaincommons.com/vision.html) and sign up for [Blockchain Commons announcement lists](https://www.blockchaincommons.com/subscribe.html)._
 
 ## The Silicon Salon
 
 The Silicon Salon unites semiconductor manufacturers, crypto-wallet makers, and others to discuss semiconductor manufacture for cryptography. The first Silicon Salon occurred on June 1, 2022, the second on September 14, 2022.
+
+_Sign up for the [Silicon Salon announce list](/subscribe/)._
