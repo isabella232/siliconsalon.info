@@ -18,4 +18,4 @@ Finally, you can sign up for our low-volume Silicon Salon announcement list usin
 
 <br>
 
-_You can also sign up for other announcement lists at [Blockchain Commons](https://www.blockchainscommons.com/subscribe.html)._
+_You can also sign up for other announcement lists at [Blockchain Commons](https://www.blockchaincommons.com/subscribe.html)._
