@@ -1,1 +1,1 @@
-**Seeking Silicon 4 Presentations.** Let us know if you'd [like to present](/contribute/) at Silicon Salon 4, planned for May 3, 2023. You can also now [sign up for our low-volume Silicon Salon announcement list](/subscribe/).
+**Seeking Silicon 4 Presentations.** Let us know if you'd [like to present](/contribute/) at Silicon Salon 4, planned for May 3, 2023, and if you'd like to attend, sign up at [Eventbrite](https://www.eventbrite.com/e/silicon-salon-4-tickets-558196208887). You can also now [subscribe to our low-volume Silicon Salon announcement list](/subscribe/).
