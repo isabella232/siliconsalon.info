@@ -23,7 +23,7 @@ For Silicon Salon 4, we have one confirmed talk already:
 
 * **Anti-Exfil: Preventing Key Exfiltration Through Signature Nonce Data**. (Andrew Poelstra.) Secure nonce generation is a critical part of generating EC signatures, such as ECDSA or BIP-340 "Schnorr" signatures. If a hardware wallet fails to generate these nonces uniformly at random, then key leakage will occur, in extreme cases in as few as 2 signatures. Furthermore, it is possible for a malicious implementor to exfiltrate key data this way, and such an attack would be practically impossible to detect. This talk introduces a protocol we term "anti-exfil", in which a hardware wallet and host computer engage in a 2-round interactive protocol to produce a signature, in which the host computer is able to provide randomness which it can verify was included in the signature nonce. Therefore, unless both the host computer and hardware wallet are simultaneously compromised, this attack vector is entirely closed.
 
-We are looking particularly for other talks that might complement Andrew's work, such as discussions of signatures, of nonces, or of security protocols, however we are always openn to any discussions that can bridge software requirements and hardware designs.
+We are looking particularly for other talks that might complement Andrew's work, such as discussions of signatures, of nonces, or of security protocols, however we are always open to any discussions that can bridge software requirements and hardware designs.
 
 Here are some of our best presentations from the recent Silicon Salons:
 
