@@ -19,7 +19,7 @@ The Silicon Salon is returning on a quarterly basis, with virtual workshops sche
 
 _We want you_ to make a presentation about your unique experiences in the field, whether you're producing semiconductors with an eye toward cryptography support, working on digital-asset wallets, or researching and publishing about cryptographic capabilities. We want to highlight cutting-edge research, innovative technologies, and real-world applications that are shaping the future of silicon-based security architectures. 
 
-For Silicon Salon 4, we have one confirmed talk already:
+For [Silicon Salon 4 on May 3rd](https://www.eventbrite.com/e/silicon-salon-4-tickets-558196208887), we have one confirmed talk already:
 
 * **Anti-Exfil: Preventing Key Exfiltration Through Signature Nonce Data**. (Andrew Poelstra.) Secure nonce generation is a critical part of generating EC signatures, such as ECDSA or BIP-340 "Schnorr" signatures. If a hardware wallet fails to generate these nonces uniformly at random, then key leakage will occur, in extreme cases in as few as 2 signatures. Furthermore, it is possible for a malicious implementor to exfiltrate key data this way, and such an attack would be practically impossible to detect. This talk introduces a protocol we term "anti-exfil", in which a hardware wallet and host computer engage in a 2-round interactive protocol to produce a signature, in which the host computer is able to provide randomness which it can verify was included in the signature nonce. Therefore, unless both the host computer and hardware wallet are simultaneously compromised, this attack vector is entirely closed.
 
