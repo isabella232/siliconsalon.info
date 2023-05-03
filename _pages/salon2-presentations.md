@@ -29,7 +29,7 @@ presentation_2:
   - image_path: /assets/silicon-salon-2/presentations/bunnie-studios-presentation.png
     alt: "Bunnie Studios Presentation"
     title: "Bunnie Studios Presentation"
-    excerpt: 'Bunnie introduced Precursor, an open-source platform for developing secure mobile apps.'
+    excerpt: '**Precursor.** Precursor is an open-source platform for developing secure mobile apps. Based on an FPGA, it's used to battle-test real-world scenarios prior to a planned SoC tape-out. Includes a tour of the secure boot and key self-provisioning.'
     url: "https://www.youtube.com/watch?v=IlM4mFv2nM4"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -43,7 +43,7 @@ presentation_3:
   - image_path: /assets/silicon-salon-2/presentations/cramium-presentation.jpg
     alt: "Cramium Presentation"
     title: "Cramium Presentation"
-    excerpt: 'Cramium asked: What should the Controller Manufacturer bootloader do?'
+    excerpt: '**Bootloading.** Cramium Labs is a division of Crossbar Inc., focused on security system-on-a-chip products incorporating RRAM. Their presentation asks: What should the Controller Manufacturer bootloader do? Should it only open the communication ports or should it open the comm channels, perform self-test, and perform all crypto functions, or something in-between?'
     url: "https://www.youtube.com/watch?v=Np7Mw-jf0WY"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -57,7 +57,7 @@ presentation_4:
   - image_path: /assets/silicon-salon-2/presentations/foundation-presentation.jpg
     alt: "Foundation Presentation"
     title: "Foundation Presentation"
-    excerpt: 'Foundation outlined the Passport bootloader, firmware update process, and supply-chain activation process.'
+    excerpt: '**How Passport Uses Silicon Features to Secure Your Bitcoin.** Passport is a modern Bitcoin hardware wallet that combines ease of use with strong security. This talk covers some of the key features that are built into Passport's bootloader, firmware update process, and supply-chain activation process. In particular, it covers how those features use the Secure Element and MCU to provide security.'
     url: "https://www.youtube.com/watch?v=ZCZ_dwui-X0"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -71,7 +71,7 @@ presentation_5:
   - image_path: /assets/silicon-salon-2/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
     title: "Proxy Presentation"
-    excerpt: 'Proxy talked about steps they are taking in assuring the security and integrity of their hardware.'
+    excerpt: '**Hardware Security.** Proxy makes a web3 identity wallet and a companion wearable hardware crypto-wallet. Their focus is ease of use by a non-technical audience, coupled with strong and opinionated default security. This talk is about steps they are taking in assuring the security and integrity of their hardware.'
     url: "https://www.youtube.com/watch?v=MV-Q9PVQZ-o"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -85,7 +85,7 @@ presentation_6:
   - image_path: /assets/silicon-salon-2/presentations/vls-presentation.jpg
     alt: "VLS Presentation"
     title: "VLS Presentation"
-    excerpt: 'The VLS team overviewed integrating the VLS software with secure hardware execution environments.'
+    excerpt: '**Validating Lightning Signer**. The VLS project builds software that enables the private-key material and sensitive signing operations for a Lightning node to be stored and executed in a separate secure environment. The VLS project is open-source and is written in Rust. There is interest in integrating the VLS software with secure hardware execution environments.'
     url: "https://www.youtube.com/watch?v=zY8I-ec9rHY"
     btn_label: "Watch Video"
     btn_class: "btn--info"
