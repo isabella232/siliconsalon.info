@@ -48,7 +48,7 @@ presentation_4:
   - image_path: /assets/silicon-salon-3/presentations/sreedhar-presentation.jpg
     alt: "Kavya Sreedhar Presentation"
     title: "Kavya Sreedhar Presentation"
-    excerpt: '**A Fast Large-Integer Extended GCD Algorithm and Hardware Design for Verifiable Delay Functions and Modular Inversion**. About work on developing a large-integer extended GCD (XGCD) algorithm and hardware design. It uses carry-save arithmetic and conducts a design space exploration over XGCD algorithms and application requirements to design an accelerator that supports fast average and constant-time evaluation and is easily extensible for polynomial XGCD.'
+    excerpt: '**A Fast Large-Integer Extended GCD Algorithm and Hardware Design for Verifiable Delay Functions and Modular Inversion**. Developing a large-integer extended GCD (XGCD) algorithm and hardware design. It uses carry-save arithmetic and conducts a design space exploration to develop an accelerator that supports fast average and constant-time evaluation.'
     url: "https://www.youtube.com/watch?v=liMA-8zmu1E"
     btn_label: "Watch Video"
     btn_class: "btn--info"
