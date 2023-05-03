@@ -66,6 +66,7 @@ direct computation to get your secret key."
 _Anti-Exfil:_ "What's my solution? It takes the multisig premise here
 which is that you have two participants and they mix their randomness
 in together and they avoid biases."
+{: .notice--info}
 
 ### Key Links
 
@@ -120,9 +121,9 @@ View [the presentation](https://www.siliconsalon.info/salon4/presentations/#cram
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.infoassets/silicon-salon-4/presentations/libresoc-presentation-1.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.infoassets/silicon-salon-4/presentations/libresoc-presentation-2.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.infoassets/silicon-salon-4/presentations/libresoc-presentation-3.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-3.jpg"></a>	
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/cramium-presentation-1.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/cramium-presentation-2.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/cramium-presentation-3.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-3.jpg"></a>	
 </figure>
 
 ### Key Quotes
