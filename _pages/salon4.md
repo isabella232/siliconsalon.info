@@ -45,9 +45,9 @@ View [the presentation](https://www.siliconsalon.info/salon4/presentations/#andr
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation-3.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/poelstra-presentation-1.jpg"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/poelstra-presentation-2.jpg"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/poelstra-presentation-3.jpg"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation-3.jpg"></a>	
 </figure>
 
 ### Key Quotes
@@ -79,9 +79,9 @@ View [the presentation](https://www.siliconsalon.info/salon4/presentations/#luke
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation-3.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/libresoc-presentation-1.jpg"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/libresoc-presentation-2.jpg"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.info/assets/silicon-salon-4/presentations/libresoc-presentation-3.jpg"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -120,9 +120,9 @@ View [the presentation](https://www.siliconsalon.info/salon4/presentations/#cram
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-3.jpg"></a>
+	<a href="https://www.siliconsalon.infoassets/silicon-salon-4/presentations/libresoc-presentation-1.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-1.jpg"></a>
+	<a href="https://www.siliconsalon.infoassets/silicon-salon-4/presentations/libresoc-presentation-2.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-2.jpg"></a>
+	<a href="https://www.siliconsalon.infoassets/silicon-salon-4/presentations/libresoc-presentation-3.jpg"><img src="/assets/silicon-salon-4/presentations/cramium-presentation-3.jpg"></a>	
 </figure>
 
 ### Key Quotes
