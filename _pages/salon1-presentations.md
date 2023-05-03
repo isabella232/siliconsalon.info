@@ -28,7 +28,7 @@ presentation_2:
   - image_path: /assets/silicon-salon-1/presentations/crossbar-presentation.jpg
     alt: "CrossBar Presentation"
     title: "CrossBar Presentation"
-    excerpt: '**Silicon Development for Crypto.**  About the intersection of the crypto and semiconductor cultures as well as Crossbar&#8221;s ReRAM technology, physical countermeasures, and system architectures.'
+    excerpt: '**Silicon Development for Crypto.**  About the intersection of the crypto and semiconductor cultures as well as Crossbar&rsquo;s ReRAM technology, physical countermeasures, and system architectures.'
     url: "https://www.youtube.com/watch?v=F6rjYPNE1-4"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -56,7 +56,7 @@ presentation_4:
   - image_path: /assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg
     alt: "Tropic Square Presentation"
     title: "Tropic Square Presentation"
-    excerpt: '**Tropic01.** A fully auditable chip as a basis for better hardware security. How transparency can drive innovation and how that policy is (currently) unique in the world of semiconductor design. Plus, a look at Kerckhoff&8221;s principles and other reasons to open up designs.'
+    excerpt: '**Tropic01.** A fully auditable chip as a basis for better hardware security. How transparency can drive innovation and how that policy is (currently) unique in the world of semiconductor design. Plus, a look at Kerckhoff&rsquo;s principles and other reasons to open up designs.'
     url: "https://www.youtube.com/watch?v=g43vvXUw16Y"
     btn_label: "Watch Video"
     btn_class: "btn--info"
