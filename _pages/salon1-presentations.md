@@ -42,7 +42,7 @@ presentation_3:
   - image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
     title: "Proxy Presentation"
-    excerpt: 'Proxy focused on the challenges of software and wearable hardware wallet design.'
+    excerpt: '**Introduction.** Proxy focused on the challenges of software and wearable hardware wallet design. A discussion of who they are, what they&rsquo;re building, how they're bridging URL and URL, and what their current and future challenges are.'
     url: "https://www.youtube.com/watch?v=A9QtdeWqC6U"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -70,7 +70,7 @@ presentation_5:
   - image_path: /assets/silicon-salon-1/presentations/libresoc-presentation.jpg
     alt: "Libre-SOC Video"
     title: "Libre-SOC Video"
-    excerpt: 'Libre-SOC offered an overview of the Libre-SOC Project as well as a discussion of challenges & solutions.'
+    excerpt: '**The Libre-SOC Hybrid CPU-VPU-GPU.** An overview of the Libre-SOC Project as well as a discussion of challenges & solutions. Why Libre/Open is crucial (even in a business context) and what the practical gotchas are for silicon transparency.'
     url: "https://www.youtube.com/watch?v=us061o4PBZs"
     btn_label: "Watch Video"
     btn_class: "btn--info"
