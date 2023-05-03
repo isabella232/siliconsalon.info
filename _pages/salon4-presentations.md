@@ -26,7 +26,7 @@ presentation_2:
   - image_path: /assets/silicon-salon-4/presentations/poelstra-presentation.jpg
     alt: "Andrew Poelstra Presentation"
     title: "Andrew Poelstra Presentation"
-    excerpt: '**Anti-Exfil: Preventing Key Exfiltration Through Signature Nonce Data.** Secure nonce generation is a critical to EC signature generation. If a hardware wallet fails to generate these nonces uniformly at random, then key leakage will occur. This talk introduces "anti-exfil", a two-round interactive  protocol for producing a signature.'
+    excerpt: '**Anti-Exfil: Preventing Key Exfiltration Through Signature Nonce Data.** Secure nonce generation is critical to EC signature generation. If a hardware wallet fails to generate these nonces uniformly at random, then key leakage will occur. This talk introduces "anti-exfil", a two-round interactive  protocol for producing a signature.'
     url: ""
     btn_label: "Watch Video"
     btn_class: "btn--info"
