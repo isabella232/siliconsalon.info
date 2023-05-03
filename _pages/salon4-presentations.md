@@ -37,7 +37,7 @@ presentation_3:
   - image_path: /assets/silicon-salon-3/presentations/libresoc-presentation.jpg
     alt: "Luke Leighton & David Calderwood Presentation"
     title: "Luke Leighton & David Calderwood Presentation"
-    excerpt: '**Scalar and Vector Draft Biginteger instructions for the Power ISA.** Most RISC ISAs are missing instructions that allow for easy chaining to create Vector results for biginteger operation. This presentation describes the need for 3-in 2-out instructions that greatly simplify biginteger operations as a key strategic requirement for semiconductor design."
+    excerpt: '**Scalar and Vector Draft Biginteger instructions for the Power ISA.** Most RISC ISAs are missing instructions that allow for easy chaining to create Vector results for biginteger operation. This presentation describes the need for 3-in 2-out instructions that greatly simplify biginteger operations as a key strategic requirement for semiconductor design.'
     url: ""
     btn_label: "Watch Video"
     btn_class: "btn--info"
