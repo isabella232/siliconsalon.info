@@ -43,7 +43,7 @@ presentation_3:
   - image_path: /assets/silicon-salon-2/presentations/cramium-presentation.jpg
     alt: "Cramium Presentation"
     title: "Cramium Presentation"
-    excerpt: '**Bootloading.** Cramium Labs is a division of Crossbar Inc., focused on security system-on-a-chip products incorporating RRAM. Their presentation asks: What should the Controller Manufacturer bootloader do? Should it only open the communication ports or should it open the comm channels, perform self-test, and perform all crypto functions, or something in-between?'
+    excerpt: '**Bootloading.** Cramium Labs is a division of Crossbar Inc., focused on security system-on-a-chip products incorporating RRAM. Their presentation asks: What should the Controller Manufacturer bootloader do? Should it only open the communication ports, perform all crypto functions, or something in-between?'
     url: "https://www.youtube.com/watch?v=Np7Mw-jf0WY"
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -57,9 +57,9 @@ presentation_4:
   - image_path: /assets/silicon-salon-2/presentations/foundation-presentation.jpg
     alt: "Foundation Presentation"
     title: "Foundation Presentation"
-    excerpt: '**How Passport Uses Silicon Features to Secure Your Bitcoin.** Passport is a modern Bitcoin hardware wallet that combines ease of use with strong security. This talk covers some of the key features that are built into Passport&rsquo;s bootloader, firmware update process, and supply-chain activation process. In particular, it covers how those features use the Secure Element and MCU to provide security.'
+    excerpt: '**How Passport Uses Silicon Features to Secure Your Bitcoin.** Passport is a modern Bitcoin hardware wallet that combines ease of use with strong security. This talk covers some of the key features that are built into Passport&rsquo;s bootloader, firmware update process, and supply-chain activation process, including usage of the Secure Element and MCU to provide security.'
     url: "https://www.youtube.com/watch?v=ZCZ_dwui-X0"
-    btn_label: "Watch Video"
+    btn_label: "Watch Video" 
     btn_class: "btn--info"
     url2: "/assets/silicon-salon-2/presentations/foundation-presentation.pdf"
     btn_label2: "View Slides"
