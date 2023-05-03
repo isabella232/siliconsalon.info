@@ -1,1 +1,5 @@
-**Silicon Salon 4 is Wednesday May 3, 2003.** Sign up at [Eventbrite](https://www.eventbrite.com/e/silicon-salon-4-tickets-558196208887) to join us. We are also seeking [presentations](/contribute/) for Silicon Salon 5, which is planned for July.
+**Silicon Salon 4 Was a Success!** Take a look at our [overview of the
+event](/salon4/) and the
+[presentations](/salon4/presentations/). Thanks to all who attended!
+We are also seeking [presentations](/contribute/) for Silicon Salon 5,
+which is planned for July.

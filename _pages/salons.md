@@ -15,11 +15,11 @@ salon_4:
     alt: "Silicon Salon 4"
     title: "Silicon Salon 4"
     excerpt: 'The fourth Silicon Salon is scheduled for May 3, 2023.'
-    url: "https://www.eventbrite.com/e/silicon-salon-4-tickets-558196208887"
-    btn_label: "Tickets"
+    url: "/salon4"
+    btn_label: "Overview"
     btn_class: "btn--info"
-    url2: "/proposals/"
-    btn_label2: "Call for Proposals"
+    url2: "/salon4/presentations"
+    btn_label2: "Presentations"
     btn_class2: "btn--success"
 salon_3:
   - image_path: /assets/silicon-salon-3/images/silicon-salon3.jpg
