@@ -26,7 +26,7 @@ presentation_2:
   - image_path: /assets/silicon-salon-4/presentations/poelstra-presentation.jpg
     alt: "Andrew Poelstra Presentation"
     title: "Andrew Poelstra Presentation"
-    excerpt: '**Anti-Exfil: Preventing Key Exfiltration Through Signature Nonce Data.** Secure nonce generation is a critical part of generating EC signatures, such as ECDSA or BIP-340 "Schnorr" signatures. If a hardware wallet fails to generate these nonces uniformly at random, then key leakage will occur. This talk introduces "anti-exfil", a two-round interactive  protocol for producing a signature.'
+    excerpt: '**Anti-Exfil: Preventing Key Exfiltration Through Signature Nonce Data.** Secure nonce generation is a critical to EC signature generation. If a hardware wallet fails to generate these nonces uniformly at random, then key leakage will occur. This talk introduces "anti-exfil", a two-round interactive  protocol for producing a signature.'
     url: ""
     btn_label: "Watch Video"
     btn_class: "btn--info"
@@ -48,7 +48,7 @@ presentation_4:
   - image_path: /assets/silicon-salon-3/presentations/cramium-presentation.jpg
     alt: "Cramium Labs Presentation"
     title: "Cramium Labs Presentation"
-    excerpt: '**Pitfalls and Approaches to Open Source Security Semiconductor.** It&rsquo;s not straightforward to extend the open-source approach to security semiconductors. This talk describe some of the history of open source, explains Cramium&rsquo;s approach to navigating these problems, and provides at least some of the benefits of open source in the context of semiconductor design.'
+    excerpt: '**Pitfalls and Approaches to Open Source Security Semiconductor.** It&rsquo;s not straightforward to extend the open-source approach to security semiconductors. This talk describes some open-source history, explains Cramium&rsquo;s approach to navigating these problems, and provides at least some of the benefits of open source in the context of semiconductor design.'
     url: ""
     btn_label: "Watch Video"
     btn_class: "btn--info"
