@@ -29,7 +29,7 @@ presentation_2:
   - image_path: /assets/silicon-salon-2/presentations/bunnie-studios-presentation.png
     alt: "Bunnie Studios Presentation"
     title: "Bunnie Studios Presentation"
-    excerpt: '**Precursor.** Precursor is an open-source platform for developing secure mobile apps. Based on an FPGA, it's used to battle-test real-world scenarios prior to a planned SoC tape-out. Includes a tour of the secure boot and key self-provisioning.'
+    excerpt: '**Precursor.** Precursor is an open-source platform for developing secure mobile apps. Based on an FPGA, it\'s used to battle-test real-world scenarios prior to a planned SoC tape-out. Includes a tour of the secure boot and key self-provisioning.'
     url: "https://www.youtube.com/watch?v=IlM4mFv2nM4"
     btn_label: "Watch Video"
     btn_class: "btn--info"
