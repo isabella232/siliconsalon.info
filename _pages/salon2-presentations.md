@@ -57,7 +57,7 @@ presentation_4:
   - image_path: /assets/silicon-salon-2/presentations/foundation-presentation.jpg
     alt: "Foundation Presentation"
     title: "Foundation Presentation"
-    excerpt: "**How Passport Uses Silicon Features to Secure Your Bitcoin.** Passport is a modern Bitcoin hardware wallet that combines ease of use with strong security. This talk covers some of the key features that are built into Passport's bootloader, firmware update process, and supply-chain activation process. In particular, it covers how those features use the Secure Element and MCU to provide security."
+    excerpt: '**How Passport Uses Silicon Features to Secure Your Bitcoin.** Passport is a modern Bitcoin hardware wallet that combines ease of use with strong security. This talk covers some of the key features that are built into Passport&rsquo;s bootloader, firmware update process, and supply-chain activation process. In particular, it covers how those features use the Secure Element and MCU to provide security.'
     url: "https://www.youtube.com/watch?v=ZCZ_dwui-X0"
     btn_label: "Watch Video"
     btn_class: "btn--info"
