@@ -42,7 +42,7 @@ presentation_3:
   - image_path: /assets/silicon-salon-1/presentations/proxy-presentation.jpg
     alt: "Proxy Presentation"
     title: "Proxy Presentation"
-    excerpt: '**Introduction.** The challenges of software and wearable hardware wallet design. A discussion of who Proxy is, what they&rsquo;re building, how they&rsquo;re bridging URL and URL, and what their current and future challenges are.'
+    excerpt: '**Introducing Proxy.** The challenges of software and wearable hardware wallet design. A discussion of who Proxy is, what they&rsquo;re building, how they&rsquo;re bridging URL and URL, and what their current and future challenges are.'
     url: "https://www.youtube.com/watch?v=A9QtdeWqC6U"
     btn_label: "Watch Video"
     btn_class: "btn--info"
