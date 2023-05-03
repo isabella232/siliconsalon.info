@@ -34,7 +34,7 @@ question & answer sessions after each presentation.
 <figure class="third">
 	<a href="https://www.siliconsalon.info/salon4/presentations/#silicon-salon-overview"><img src="/assets/silicon-salon-4/presentations/silicon-salon-presentation.jpg"></a>
 	<a href="https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderrwood-presentation"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation"><img src="/assets/silicon-salon-4/presentations/libresoc-presentation.jpg"></a>
 	<a href="https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation"><img src="/assets/silicon-salon-4/presentations/cramium-presentation.jpg"></a>
 </figure>
 
