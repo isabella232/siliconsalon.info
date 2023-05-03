@@ -45,7 +45,7 @@ presentation_3:
     btn_label2: "View Slides"
     btn_class2: "btn--success"
 presentation_4:
-  - image_path: /assets/silicon-salon-3/presentations/cramium-presentation.jpg
+  - image_path: /assets/silicon-salon-4/presentations/cramium-presentation.jpg
     alt: "Cramium Labs Presentation"
     title: "Cramium Labs Presentation"
     excerpt: '**Pitfalls and Approaches to Open Source Security Semiconductor.** It&rsquo;s not straightforward to extend the open-source approach to security semiconductors. This talk describes some open-source history, explains Cramium&rsquo;s approach to navigating these problems, and provides at least some of the benefits of open source in the context of semiconductor design.'
