@@ -12,7 +12,7 @@ redirect_from:
 - /contribute/
 ---
 
-Silicon Salon 4 is locked down for May 3, 2023. Future Silicon Salons are tentatively scheduled for July 26 and October 25. Propose a presentation now!
+Silicon Salon 5 is tentatively scheduled for July 26, then Silicon Salon 6 for October 25. Propose a presentation now!
 {: .notice--success}
 
 The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for [January (completed)](https://www.siliconsalon.info/salon3/), May, July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. You can keep up to date with this and future Salons by signing up for the [Silicon Salon announcement list](/subscribe/).
