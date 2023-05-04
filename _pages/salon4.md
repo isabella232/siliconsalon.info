@@ -164,6 +164,108 @@ we're publishing an outbound CERN-OHL-W license."
 
 Additional discussion focused on the question of Open Silicon.
 
+### Key Quotes: Our Goals
+
+_Best Practics:_
+"What I'd like to see emerge is,
+okay, here are some pragmatic best practices
+that we can recommend to ...
+other people who are beginning
+to design chips in this space"
+{: .notice--info}
+
+_FPGA Tool Chain Best Practics:_
+"Maybe one of the things we put into our best practices from the
+Silicon Salon community is we want to use FPGA tool chains that meet
+certain criteria."
+{: .notice--info}
+
+### Key Quotes: IP
+
+_IP Complexity:_
+"I don't think there's any way to unravel that complexity. You have to
+steer clear of it."
+{: .notice--info}
+
+_Stolen IP:_
+"[W]e have encountered ... companies
+whose chip designs contain so much stolen IP
+from other companies,
+but they won't disclose what's inside the chip
+because A, they don't know,
+and B, they definitely don't own it."
+{: .notice--info}
+
+### Key Quotes: Open Source
+
+_Acceptance:_
+"In the last 10 years a significant amount of open source technology has gone
+into proprietary products, commercial products.
+So there isn't the resistance there used to be."
+{: .notice--info}
+
+### Key Quotes: The Desire for Inspectability
+
+_A User Desire:_
+"I just wanna say as a user
+rather than somebody trying to build hardware,
+probably the biggest benefit of open hardware
+me would be something like inspectability, right?
+Being able to see that a chip that I'm using
+isn't bugged in some way."
+{: .notice--info}
+
+_A Customer Desire:_
+"We could actually take the design to a customer and say,
+'Go check it yourself.'
+And there is a large marketplace that is interested in that."
+{: .notice--info}
+
+### Key Quotes: The Challenges of Inspectability
+
+_Invisible Failures:_
+"Even if I could visually inspect
+the chip, I suspect that you could have side channel
+failures that were happening at the gate level,
+really something that is completely
+invisible to somebody."
+{: .notice--info}
+
+_Individual Tests vs. Mass Shipments:_
+"There's no way for us to easily prove
+that the thing we reviewed is the thing that we got."
+{: .notice--info}
+
+_Corporate Obstacles:_
+"If you try to do the same thing to Intel or to AMD,
+or even to Arm at a design level,
+you'll find there's a hundred lawyers in your way saying,
+no, you cannot see what's inside the chip."
+{: .notice--info}
+
+### Key Quotes: Formal Correctness Proofs
+
+_Proofs:_
+"You can run formal correctness proofs to prove
+that the CPU correctly implements the specification."
+{: .notice--info}
+
+"You write the formal correctness proof once
+rather than having to run a hundred thousand unit tests
+where you're never gonna catch the corner cases."
+{: .notice--info}
+
+### Key Quotes: It's Not Just about Cryptography!
+
+_The AI Threat:_
+"You're all probably aware that there's an increasing debate about the
+safety of artificial intelligence.  And one of the perspectives that
+my organization ...  is trying to bring to that debate is that none of
+the proposals these people are making make any sense unless we have
+real security at the hardware level, which we don't right
+now."
+{: .notice--info}
+
 ## Participants
 
 Thanks to our presenters and other participants!
