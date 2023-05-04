@@ -33,6 +33,9 @@ presentation_2:
     url2: "/assets/silicon-salon-4/presentations/poelstra-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/anti-exfiltration/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_3:
   - image_path: /assets/silicon-salon-4/presentations/libresoc-presentation.jpg
     alt: "Luke Leighton & David Calderwood Presentation"
@@ -44,6 +47,9 @@ presentation_3:
     url2: "/assets/silicon-salon-4/presentations/libresoc-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/bigint-powerisa/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"
 presentation_4:
   - image_path: /assets/silicon-salon-4/presentations/cramium-presentation.jpg
     alt: "Cramium Labs Presentation"
@@ -55,6 +61,9 @@ presentation_4:
     url2: "/assets/silicon-salon-4/presentations/cramium-presentation.pdf"
     btn_label2: "View Slides"
     btn_class2: "btn--success"
+    url3: "https://diyhpl.us/wiki/transcripts/silicon-salon/open-source-hardware/"
+    btn_label3: "Read Transcript"
+    btn_class3: "btn--success"    
 ---
 
 {% include feature_row id="presentation_1" type="left" %}
