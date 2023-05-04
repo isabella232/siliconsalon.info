@@ -103,7 +103,7 @@ for free, a scalar vector arithmetic and you can do simple loops on
 top of that and then you have Knuth algorithms D and M."
 {: .notice--info}
 
-_How It Works:__
+_How It Works:_
 "You're just outputting the second half of what is normally thrown
 away as the carry-out."
 {: .notice--info}
