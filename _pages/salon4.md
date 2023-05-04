@@ -31,6 +31,8 @@ presentations](/salon4/presentations), from Andrew Poelstra, from Luke
 Kenneth Casson Leighton, and from Cramium Labs.  There were also
 question & answer sessions after each presentation.
 
+
+
 <figure class="third">
 	<a href="https://www.siliconsalon.info/salon4/presentations/#silicon-salon-overview"><img src="/assets/silicon-salon-4/presentations/silicon-salon-presentation.jpg"></a>
 	<a href="https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation.jpg"></a>
@@ -38,9 +40,13 @@ question & answer sessions after each presentation.
 	<a href="https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation"><img src="/assets/silicon-salon-4/presentations/cramium-presentation.jpg"></a>
 </figure>
 
+## Intro
+
+Christopher Allen offered an intro to Silicon Salon 4 with this [presentation](/assets/silicon-salon-4/presentations/silicon-salon-presentation.pdf) and [video](https://www.youtube.com/watch?v=1lmkdCCQPZc).
+
 ## Andrew Poelstra Presentation
 
-View [the presentation](https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation), [the video](https://www.youtube.com/watch?v=vM7qjaCvoxk), or [the transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/anti-exfiltration/).
+View [presentation](https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation), [video](https://www.youtube.com/watch?v=vM7qjaCvoxk), or [transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/anti-exfiltration/).
 
 ### Key Slides
 
@@ -75,7 +81,7 @@ in together and they avoid biases."
 
 ## Luke Leighton & David Calderwood Presentation
 
-View [the presentation](https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation), [the video](https://www.youtube.com/watch?v=ww8y3I-KqYU), or [the transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/bigint-powerisa/).
+View the [presentation](https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation), [video](https://www.youtube.com/watch?v=ww8y3I-KqYU), or [transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/bigint-powerisa/).
 
 ### Key Slides
 
@@ -116,7 +122,7 @@ away as the carry-out."
 
 ## Cramium Labs Presentation
 
-View [the presentation](https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation), [the video](https://www.youtube.com/watch?v=p8MSV9sOnuM), or [the transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/open-source-hardware/).
+View [presentation](https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation), [video](https://www.youtube.com/watch?v=p8MSV9sOnuM), or [transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/open-source-hardware/).
 
 ### Key Slides
 
