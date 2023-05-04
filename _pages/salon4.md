@@ -40,7 +40,7 @@ question & answer sessions after each presentation.
 
 ## Andrew Poelstra Presentation
 
-View [the presentation](https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation)
+View [the presentation](https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation), [the video](https://www.youtube.com/watch?v=vM7qjaCvoxk), or [the transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/anti-exfiltration/).
 
 ### Key Slides
 
@@ -75,7 +75,7 @@ in together and they avoid biases."
 
 ## Luke Leighton & David Calderwood Presentation
 
-View [the presentation](https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation)
+View [the presentation](https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation), [the video](https://www.youtube.com/watch?v=ww8y3I-KqYU), or [the transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/bigint-powerisa/).
 
 ### Key Slides
 
@@ -116,7 +116,7 @@ away as the carry-out."
 
 ## Cramium Labs Presentation
 
-View [the presentation](https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation)
+View [the presentation](https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation), [the video](https://www.youtube.com/watch?v=p8MSV9sOnuM), or [the transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/open-source-hardware/).
 
 ### Key Slides
 
