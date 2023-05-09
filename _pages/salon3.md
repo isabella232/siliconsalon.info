@@ -47,14 +47,14 @@ question & answer sessions after each presentation.
 
 ## Cramium Labs Presentation 
 
-View [the video](https://www.youtube.com/watch?v=r4PxckECvpo).
+View [the presentation including video and slides](https://www.siliconsalon.info/salon3/presentations/#cramium-presentation).
 
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/cramium-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/cramium-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/cramium-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/cramium-presentation-1.jpg"><img src="/assets/silicon-salon-3/presentations/cramium-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/cramium-presentation-2.jpg"><img src="/assets/silicon-salon-3/presentations/cramium-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/cramium-presentation-3.jpg"><img src="/assets/silicon-salon-3/presentations/cramium-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -79,14 +79,14 @@ we want to take an open development approach."
 
 ## Bunnie Studios Presentation
 
-View [the video](https://www.youtube.com/watch?v=JMOWU6pFflw).
+View [the prseentation including video and slides](https://www.siliconsalon.info/salon3/presentations/#bunnie-studios-presentation).
 
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-1.jpg"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-2.jpg"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-3.jpg"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -121,14 +121,14 @@ like fatality rates in automobile accidents."
 
 ##  Kavya Sreedhar Presentation
 
-View [the video](https://www.youtube.com/watch?v=liMA-8zmu1E).
+View [the presentation including video and slides](https://www.siliconsalon.info/salon3/presentations/#kavya-sreedhar-presentation).
 
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/sreedhar-presentation-1.jpg"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/sreedhar-presentation-2.jpg"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-3/presentations/sreedhar-presentation-3.jpg"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
