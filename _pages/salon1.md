@@ -34,16 +34,36 @@ The first hour of the Silicon Salon featured [presentations](/salon1/presentatio
 	<a href="https://www.siliconsalon.info/salon1/presentations/#tropic-square-presentation"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
-### CrossBar Key Quotes
+## CrossBar Presentation
 
 View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#crossbar-presentation).
+
+### Key Slides
+
+<figure class="third">
+	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation-1.jpg"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation-2.jpg"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/crossbar-presentation-3.jpg"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation-3.jpg"></a>	
+</figure>
+
+### Key Quotes
 
 "There are really quite different cultures here. In chips, it's super expensive to develop a chip. Rather than thinking in terms of cost to acquire a customer, we think of the tooling cost and our key metric is gross margin."
 {: .notice--info}
 
-### Proxy Key Quotes
+## Proxy Presentation
 
 View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#proxy-presentation).
+
+### Key Slides
+
+<figure class="third">
+	<a href="/assets/silicon-salon-1/presentations/proxy-presentation-1.jpg"><img src="/assets/silicon-salon-1/presentations/proxy-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/proxy-presentation-2.jpg"><img src="/assets/silicon-salon-1/presentations/proxy-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/proxy-presentation-3.jpg"><img src="/assets/silicon-salon-1/presentations/proxy-presentation-3.jpg"></a>	
+</figure>
+
+### Key Quotes
 
 "Since we're so limited in space and power, we work with a high degree of integration, and we're not dealing with discrete components often. We are talking about multi-chip packages which are highly integrated, to save on space and power and routing area on the circuit boards."
 {: .notice--info}
@@ -57,9 +77,20 @@ View [the presentation including video, transcript, and slides](https://www.sili
 "Let's find ways to build architectures where some of the existing applications can co-exist with some of the new stuff being developed by crypto-wallets."
 {: .notice--info}
 
-### Tropic Square Key Quotes
+## Tropic Square Presentation
 
 View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#tropic-square-presentation).
+
+### Key Slides
+
+<figure class="third">
+	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation-1.jpg"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation-2.jpg"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation-2.jpg"></a>	
+	<a href="/assets/silicon-salon-1/presentations/tropicsquare-presentation-3.jpg"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation-3.jpg"></a>
+</figure>
+
+
+### Key Quotes
 
 "There is a problem in the market of chips that you can't buy a transparent chip so you have to trust the vendor and you have little to no visibility to implementation."
 {: .notice--info}
@@ -70,9 +101,19 @@ View [the presentation including video, transcript, and slides](https://www.sili
 "Security in obscurity is the existing status quo where you rely on the secrecy of the implementation and all these processes, which basically has a side-effect of keeping weak designs in production."
 {: .notice--info}
 
-### Libre-SOC Key Quotes
+## Libre-SOC Presentation
 
 View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#libre-soc-video).
+
+### Key Slides
+
+<figure class="third">
+	<a href="/assets/silicon-salon-1/presentations/libresoc-presentation-1.jpg"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/libresoc-presentation-2.jpg"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-1/presentations/libresoc-presentation-3.jpg"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation-3.jpg"></a>	
+</figure>
+
+###Key Quotes
 
 "The challenges that a crypto-wallet ASIC faces is first and foremost that there is a massive industry-wide paranoid 5-layer-deep NDA chain."
 {: .notice--info}
