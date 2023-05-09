@@ -113,7 +113,7 @@ View [the presentation including video, transcript, and slides](https://www.sili
 	<a href="/assets/silicon-salon-1/presentations/libresoc-presentation-3.jpg"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation-3.jpg"></a>	
 </figure>
 
-###Key Quotes
+### Key Quotes
 
 "The challenges that a crypto-wallet ASIC faces is first and foremost that there is a massive industry-wide paranoid 5-layer-deep NDA chain."
 {: .notice--info}
