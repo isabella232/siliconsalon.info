@@ -27,19 +27,23 @@ The first Silicon Salon, on June 1, 2022, drew together a variety of principals 
 The first hour of the Silicon Salon featured [presentations](/salon1/presentations/) by experts in the silicon, hardware, software, and cryptography fields, including Christopher Allen, Bryan Bishop, CrossBar, Proxy, Tropic Square, and Libre-SOC.
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon1/presentations/"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/#silicon-salon-overview"><img src="/assets/silicon-salon-1/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/#proxy-presentation"><img src="/assets/silicon-salon-1/presentations/proxy-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/#libre-soc-video"><img src="/assets/silicon-salon-1/presentations/libresoc-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/#crossbar-presentation"><img src="/assets/silicon-salon-1/presentations/crossbar-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon1/presentations/#tropic-square-presentation"><img src="/assets/silicon-salon-1/presentations/tropicsquare-presentation.jpg"></a>
 </figure>
 
 ### CrossBar Key Quotes
+
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#crossbar-presentation).
 
 "There are really quite different cultures here. In chips, it's super expensive to develop a chip. Rather than thinking in terms of cost to acquire a customer, we think of the tooling cost and our key metric is gross margin."
 {: .notice--info}
 
 ### Proxy Key Quotes
+
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#proxy-presentation).
 
 "Since we're so limited in space and power, we work with a high degree of integration, and we're not dealing with discrete components often. We are talking about multi-chip packages which are highly integrated, to save on space and power and routing area on the circuit boards."
 {: .notice--info}
@@ -55,6 +59,8 @@ The first hour of the Silicon Salon featured [presentations](/salon1/presentatio
 
 ### Tropic Square Key Quotes
 
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#tropic-square-presentation).
+
 "There is a problem in the market of chips that you can't buy a transparent chip so you have to trust the vendor and you have little to no visibility to implementation."
 {: .notice--info}
 
@@ -65,6 +71,9 @@ The first hour of the Silicon Salon featured [presentations](/salon1/presentatio
 {: .notice--info}
 
 ### Libre-SOC Key Quotes
+
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon1/presentations/#libre-soc-video).
+
 "The challenges that a crypto-wallet ASIC faces is first and foremost that there is a massive industry-wide paranoid 5-layer-deep NDA chain."
 {: .notice--info}
 
