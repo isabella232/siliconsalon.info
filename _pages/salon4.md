@@ -31,8 +31,6 @@ presentations](/salon4/presentations), from Andrew Poelstra, from Luke
 Kenneth Casson Leighton, and from Cramium Labs.  There were also
 question & answer sessions after each presentation.
 
-
-
 <figure class="third">
 	<a href="https://www.siliconsalon.info/salon4/presentations/#silicon-salon-overview"><img src="/assets/silicon-salon-4/presentations/silicon-salon-presentation.jpg"></a>
 	<a href="https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation"><img src="/assets/silicon-salon-4/presentations/poelstra-presentation.jpg"></a>
@@ -46,7 +44,7 @@ Christopher Allen offered an intro to Silicon Salon 4 with this [presentation](/
 
 ## Andrew Poelstra Presentation
 
-View [presentation](https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation), [video](https://www.youtube.com/watch?v=vM7qjaCvoxk), or [transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/anti-exfiltration/).
+View [presentation including video, transcript, and slides](https://www.siliconsalon.info/salon4/presentations/#andrew-poelstra-presentation).
 
 ### Key Slides
 
@@ -81,7 +79,7 @@ in together and they avoid biases."
 
 ## Luke Leighton & David Calderwood Presentation
 
-View the [presentation](https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation), [video](https://www.youtube.com/watch?v=ww8y3I-KqYU), or [transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/bigint-powerisa/).
+View the [presentation including video, transcript, and slides](https://www.siliconsalon.info/salon4/presentations/#luke-leighton-david-calderwood-presentation).
 
 ### Key Slides
 
@@ -122,7 +120,7 @@ away as the carry-out."
 
 ## Cramium Labs Presentation
 
-View [presentation](https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation), [video](https://www.youtube.com/watch?v=p8MSV9sOnuM), or [transcript](https://diyhpl.us/wiki/transcripts/silicon-salon/open-source-hardware/).
+View [presentation including video, transcript, and slides](https://www.siliconsalon.info/salon4/presentations/#cramium-labs-presentation).
 
 ### Key Slides
 
