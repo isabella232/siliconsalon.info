@@ -39,10 +39,10 @@ Labs, as well as cryptographer Kavya Sreedhar. There were also
 question & answer sessions after each presentation.
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/silicon-salon-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/cramium-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon3/presentations/"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon3/presentations/#silicon-salon-overview"><img src="/assets/silicon-salon-3/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon3/presentations/#bunnie-studios-presentation"><img src="/assets/silicon-salon-3/presentations/bunnie-studios-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon3/presentations/#cramium-presentation"><img src="/assets/silicon-salon-3/presentations/cramium-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon3/presentations/#kavya-sreedhar-presentation"><img src="/assets/silicon-salon-3/presentations/sreedhar-presentation.jpg"></a>
 </figure>
 
 ## Cramium Labs Presentation 
