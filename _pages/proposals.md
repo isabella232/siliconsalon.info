@@ -15,7 +15,7 @@ redirect_from:
 Silicon Salon 5 is tentatively scheduled for July 26, then Silicon Salon 6 for October 25. Propose a presentation now!
 {: .notice--success}
 
-The Silicon Salon is returning on a quarterly basis, with virtual workshops scheduled for [January (completed)](https://www.siliconsalon.info/salon3/), [May (completed)](https://www.siliconsalon.info/salon4/), July, and October of this year. We will be bringing together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. You can keep up to date with this and future Salons by signing up for the [Silicon Salon announcement list](/subscribe/).
+Two more Silicon Salons are scheduled in 2023, for July and October. We will be continuing to bring together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. You can keep up to date with this and future Salons by signing up for the [Silicon Salon announcement list](/subscribe/).
 
 _We want you_ to make a presentation about your unique experiences in the field, whether you're producing semiconductors with an eye toward cryptography support, working on digital-asset wallets, or researching and publishing about cryptographic capabilities. We want to highlight cutting-edge research, innovative technologies, and real-world applications that are shaping the future of silicon-based security architectures. 
 
@@ -33,6 +33,7 @@ Become a part of this collaboration by proposing your own presentation for a fut
 * Semiconductor capabilities for cryptography
 * Digital wallet requirements and design
 * Cryptography in IoT and edge devices
+* Open Silicon Goals & Challenges
 
 To propose a presentation, mail us at [team@blockchaincommons.com](mailto:team@blockchaincommons.com) and tell us:
 
