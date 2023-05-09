@@ -31,22 +31,24 @@ The second Silicon Salon, on September 14, 2022, again brought together principa
 The first two-thirds of the Silicon Salon featured [presentations](/salon2/presentations/) by experts in the silicon, hardware, software, and cryptography fields, including Bunnie Studios, Cramium Labs, Foundation, Proxy, and the team behind Validated Lightning Signer. There were also question & answer sessions after each presentation.
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/silicon-salon-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation.png"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/#silicon-salon-overview"><img src="/assets/silicon-salon-2/presentations/silicon-salon-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/#bunnie-studios-presentation"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation.png"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/#cramium-presentation"><img src="/assets/silicon-salon-2/presentations/cramium-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/#foundation-presentation"><img src="/assets/silicon-salon-2/presentations/foundation-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/#proxy-presentation"><img src="/assets/silicon-salon-2/presentations/proxy-presentation.jpg"></a>
+	<a href="https://www.siliconsalon.info/salon2/presentations/#vls-presentation"><img src="/assets/silicon-salon-2/presentations/vls-presentation.jpg"></a>
 </figure>
 
 ## Bunnie Studios Presentation
 
+View the [presentation including video, transcript, and slides](https://www.siliconsalon.info/salon2/presentations/#bunnie-studios-presentation).
+
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-1.jpg"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-2.jpg"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-3.jpg"><img src="/assets/silicon-salon-2/presentations/bunnie-studios-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -62,12 +64,14 @@ The first two-thirds of the Silicon Salon featured [presentations](/salon2/prese
 
 ## Cramium Labs Presentation 
 
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon2/presentations/#cramium-presentation).
+
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/cramium-presentation-1.jpg"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/cramium-presentation-2.jpg"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/cramium-presentation-3.jpg"><img src="/assets/silicon-salon-2/presentations/cramium-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -83,12 +87,14 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 
 ## Proxy Labs Presentation 
 
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon2/presentations/#proxy-presentation).
+
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/proxy-presentation-1.jpg"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/proxy-presentation-2.jpg"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/proxy-presentation-3.jpg"><img src="/assets/silicon-salon-2/presentations/proxy-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -104,12 +110,14 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 
 ## Foundation Devices Presentation 
 
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon2/presentations/#foundation-presentation).
+
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/foundation-presentation-1.jpg"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/foundation-presentation-2.jpg"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/foundation-presentation-3.jpg"><img src="/assets/silicon-salon-2/presentations/foundation-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
@@ -125,12 +133,14 @@ _Full-feature Software:_ "The other option is to have full-feature software wher
 
 ## Validated Lightning Signer Presentation 
 
+View [the presentation including video, transcript, and slides](https://www.siliconsalon.info/salon2/presentations/#vls-presentation).
+
 ### Key Slides
 
 <figure class="third">
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation-1.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation-2.jpg"></a>
-	<a href="https://www.siliconsalon.info/salon2/presentations/"><img src="/assets/silicon-salon-2/presentations/vls-presentation-3.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/vls-presentation-1.jpg"><img src="/assets/silicon-salon-2/presentations/vls-presentation-1.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/vls-presentation-2.jpg"><img src="/assets/silicon-salon-2/presentations/vls-presentation-2.jpg"></a>
+	<a href="/assets/silicon-salon-2/presentations/vls-presentation-3.jpg"><img src="/assets/silicon-salon-2/presentations/vls-presentation-3.jpg"></a>
 </figure>
 
 ### Key Quotes
