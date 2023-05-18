@@ -14,7 +14,7 @@ salon_4:
   - image_path: /assets/silicon-salon-4/images/silicon-salon4.jpg
     alt: "Silicon Salon 4"
     title: "Silicon Salon 4"
-    excerpt: 'The fourth Silicon Salon is scheduled for May 3, 2023.'
+    excerpt: 'The fourth Silicon Salon offered a potpurri of topics, filling in some of the gaps from our first year of community work.'
     url: "/salon4"
     btn_label: "Overview"
     btn_class: "btn--info"
