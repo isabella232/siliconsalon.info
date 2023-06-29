@@ -12,10 +12,10 @@ redirect_from:
 - /contribute/
 ---
 
-Silicon Salon 5 is tentatively scheduled for July 26, then Silicon Salon 6 for October 25. Propose a presentation now!
+Silicon Salon 5 is tentatively scheduled for October 25. Propose a presentation now!
 {: .notice--success}
 
-Two more Silicon Salons are scheduled in 2023, for July and October. We will be continuing to bring together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. You can keep up to date with this and future Salons by signing up for the [Silicon Salon announcement list](/subscribe/).
+One more Silicon Salons is scheduled in 2023, for October. We will be continuing to bring together digital wallet developers, semiconductor manufacturers, and academics. Our ultimate objective: to ensure that the next generation of cryptographic semiconductors meets everyones' needs, advancing the entire cryptography industry. You can keep up to date with this and future Salons by signing up for the [Silicon Salon announcement list](/subscribe/).
 
 _We want you_ to make a presentation about your unique experiences in the field, whether you're producing semiconductors with an eye toward cryptography support, working on digital-asset wallets, or researching and publishing about cryptographic capabilities. We want to highlight cutting-edge research, innovative technologies, and real-world applications that are shaping the future of silicon-based security architectures. 
 
